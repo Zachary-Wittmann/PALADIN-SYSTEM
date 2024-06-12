@@ -75,7 +75,9 @@ __*Severity.csv*__
 > "N/A"<br>- Dante Lopez
 
 
-> "N/A"<br>- Jesus Torres
+> "This hackathon teached me a lot when approaching a prompt that may be guided for community outreach or community impact. In this case it was in our own community.
+  It was eye opening to really consider all the possible options and develp skills to correctly research all available data or resources which can minimize the development
+  and get to a better articulated solution."<br>- Jesus Torres
 
 
 > "I found this experience to be very beneficial as I have an interest in data analytics and the utilization of machine learning and artificial intelligence in the process.
