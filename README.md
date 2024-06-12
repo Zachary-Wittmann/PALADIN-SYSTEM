@@ -66,7 +66,7 @@ __*Severity.csv*__
 | data | 🗂️ | Contains all the .csv files utilized within PALADIN. |
 | PALADIN | .py | The source code for the project.|
 | README | .md | All of the text that you are currently reading. |
-| Team 3 | .pptx | Allowed for larger assets (Bigger than 20MB) to be stored on this Github Repo. |
+| Team 3 | .pptx | The PowerPoint presentation for the project. |
 
 ## Closing Thoughts
 > "I really enjoyed my first time working with an A.I. model."<br>- William Dunlap
