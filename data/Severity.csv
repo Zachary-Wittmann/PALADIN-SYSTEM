@@ -1,0 +1,35 @@
+incident>>problem,Severity
+Hazard,0.2
+Reckless Endangerment,0.6
+Drunk Person,0.6
+Traffic Accident With Injury,0.7
+Criminal Trespass Auto Cold,0.5
+Harassment Cold,0.3
+Burglary Residential Cold,0.5
+Alarm Business,0.1
+Traffic Accident Unknown Injury,0.6
+Criminal Mischief Cold,0.2
+Motor Vehicle Theft Cold,0.6
+Animal INJ/Abuse Cold,0.6
+Theft of Auto Parts Cold,0.2
+Disturbance,0.1
+Traffic Accident,0.5
+Criminal Trespass Cold,0.3
+Assault Cold,0.8
+Theft Cold,0.5
+Menacing,0.3
+Assault Just Occurred,0.8
+Drug Activity,0.5
+Alarm Residential,0.1
+Missing Person,0.3
+Criminal Mischief Just Occurred,0.2
+Shots Fired,1
+Theft Custody,0.5
+Criminal Trespass In Progress,0.5
+Harassment Just Occurred,0.3
+Motor Vehicle Theft Just Occur,0.6
+Motor Vehicle Theft Recovery,0.6
+Burglary Business Cold,0.4
+Abandoned Vehicle,0
+Fight,0.3
+Suspicious Incident,0.3

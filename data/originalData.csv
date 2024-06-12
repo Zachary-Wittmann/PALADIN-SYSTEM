@@ -1,0 +1,907 @@
+incident>>address,incident>>call_number,incident>>date,incident>>disposition,incident>>grid,incident>>problem,incident>>time
+9385 Hardin Rd BLACK FOREST,2018-00048237,03/16/2018,No Info,2103,Alarm Residential,6:44am
+9199 Ute Rd CHIPITA PARK,2018-00048224,03/16/2018,No Info,8501,911 Hangup - Phase II,6:24am
+990 Glenrock Dr HWY 115,2018-00048223,03/16/2018,No Info,7304,Alarm Residential,6:22am
+Address Blocked,2018-00048222,03/16/2018,Case Report,3010,Check the Welfare,6:21am
+Address Blocked,2018-00048219,03/16/2018,No Info,7302,Follow Up,6:10am
+S Powers Blvd / Cresterra Pkwy SECURITY,2018-00048218,03/16/2018,No Info,5200,Traffic Stop,6:07am
+Fountain Mesa Rd / Lolo Dr FOUNTAIN,2018-00048217,03/16/2018,No Info,6501,Traffic Stop,5:59am
+Address Blocked,2018-00048214,03/16/2018,No Info,3010,Check the Welfare,5:31am
+7390 Painted Rock Dr SECURITY,2018-00048213,03/16/2018,No Info,6502,Alarm Panic,5:31am
+N Marksheffel Rd / Constitution Ave FALCON,2018-00048210,03/16/2018,No Info,3001,Traffic Stop,5:18am
+3810 SENGBEIL RD Rush,2018-00048209,03/16/2018,No Info,4603,Citizen Contact,5:15am
+E Hwy 24 / N Peyton Hwy PEYTON,2018-00048198,03/16/2018,No Info,4607,Traffic Stop,4:42am
+E Hwy 24 / Blue Gill Dr FALCON,2018-00048195,03/16/2018,No Info,4606,Traffic Stop,4:06am
+510 SECURITY BLVD SECURITY,2018-00048193,03/16/2018,No Info,5100,Business Check,3:52am
+4810 Manzana Dr SECURITY,2018-00048192,03/16/2018,No Info,5301,Suspicious Incident,3:51am
+7130 Metropolitan St SECURITY,2018-00048190,03/16/2018,No Info,6501,Suspicious Incident,3:38am
+7040 Metropolitan St SECURITY,2018-00048188,03/16/2018,No Info,6501,911 Hangup - Phase II,3:26am
+6900-7049 Metropolitan St SECURITY,2018-00048187,03/16/2018,Resolved Onscene,6501,911 Hangup - Phase II,3:24am
+Lake Shore Ct CIMARRON HILLS,2018-00048185,03/16/2018,No Info,3001,Suspicious Incident,3:14am
+5910 Omaha Blvd CIMARRON HILLS,2018-00048183,03/16/2018,No Info,3001,Suspicious Incident,3:06am
+Poa Annua St SECURITY,2018-00048181,03/16/2018,No Info,6502,Traffic Stop,3:03am
+8090 N MERIDIAN RD FALCON,2018-00048180,03/16/2018,No Info,4606,Business Check,2:59am
+721 N Powers Blvd CIMARRON HILLS,2018-00048175,03/16/2018,No Info,3010,Traffic Stop,2:38am
+1703 Whitehall Rd STRATMOOR HILLS,2018-00048171,03/16/2018,No Info,7303,Repossessed Vehicle,2:29am
+705 Aspen Dr SECURITY,2018-00048170,03/16/2018,No Info,5100,Citizen Contact,2:25am
+Mm161 I-25 (gps) MONUMENT,2018-00048168,03/16/2018,Cancelled,1900,Citizen Traffic Complaint,2:22am
+Hinks Ct / Crawford Ave SECURITY,2018-00048164,03/16/2018,No Info,5303,Traffic Stop,2:08am
+Terminal Ave / Conrad St CIMARRON HILLS,2018-00048163,03/16/2018,Case Report,3010,Suspicious Incident,2:07am
+2674 Manassas Way CIMARRON HILLS,2018-00048160,03/16/2018,Cancelled,3001,Disturbance,1:32am
+Mm150 I-25 (gps) USAF ACADEMY,2018-00048157,03/16/2018,No Info,1901,Citizen Traffic Complaint,1:22am
+605 Peterson Rd CIMARRON HILLS,2018-00048155,03/16/2018,No Info,3010,Traffic Stop,1:21am
+Hancock Expy / Milton E Proby Pkwy SECURITY,2018-00048153,03/16/2018,No Info,5301,Citizen Traffic Complaint,1:10am
+Address Blocked,2018-00048151,03/16/2018,Cancelled,3010,Attempt to Locate,1:01am
+Address Blocked,2018-00048147,03/16/2018,No Info,6501,Suicidal Check The Welfare,12:43am
+Address Blocked,2018-00048139,03/15/2018,No Info,3010,Check the Welfare,11:54pm
+14000-14399 WHITE PEAK DR COLORADO SPRINGS,2018-00048136,03/15/2018,Cancelled,1901,911 Hangup - Phase II,11:49pm
+652 Fay Dr SECURITY,2018-00048135,03/15/2018,No Info,6501,Animal Complaint,11:45pm
+Address Blocked,2018-00048134,03/15/2018,Case Report,5504,Domestic Violence In Progress,11:44pm
+3441 W Colorado Ave COLORADO SPRINGS,2018-00048126,03/15/2018,No Info,8502,Alarm Residential,11:36pm
+5200 BRADLEY RD SECURITY,2018-00048123,03/15/2018,No Info,5200,Suspicious Incident,11:33pm
+7255 N Meridian Rd FALCON,2018-00048122,03/15/2018,No Info,4606,Citizen Traffic Complaint,11:31pm
+Address Blocked,2018-00048118,03/15/2018,No Info,7302,Domestic Violence In Progress,11:20pm
+Mm161 I-25 (gps) MONUMENT,2018-00048117,03/15/2018,Cancelled,1900,Traffic Accident Unknown Injur,11:19pm
+Leta Dr / Rose Dr SECURITY,2018-00048112,03/15/2018,No Info,5100,Traffic Stop,11:11pm
+5501 Goldfield Dr SECURITY,2018-00048110,03/15/2018,No Info,5200,Suspicious Incident,11:05pm
+3431 W Colorado Ave COLORADO SPRINGS,2018-00048108,03/15/2018,No Info,8502,Shots Fired,10:59pm
+363 Greensboro South STRATMOOR HILLS,2018-00048102,03/15/2018,No Info,7302,Drug Activity,10:52pm
+1580 MEADOWBROOK PKWY CIMARRON HILLS,2018-00048101,03/15/2018,No Info,3001,Traffic Stop,10:51pm
+Address Blocked,2018-00048097,03/15/2018,No Info,1904,Suicidal Check The Welfare,10:40pm
+19855 Chelton Rd RAMAH,2018-00048092,03/15/2018,Gone from area,4601,Suspicious Incident,10:33pm
+4830 Manzana Dr SECURITY,2018-00048090,03/15/2018,No Info,5301,Motor Vehicle Theft Recovery,10:26pm
+Address Blocked,2018-00048089,03/15/2018,No Info,3001,Check the Welfare,10:24pm
+Address Blocked,2018-00048087,03/15/2018,No Info,6501,Suicidal Check The Welfare,10:21pm
+1624 Hampton South STRATMOOR HILLS,2018-00048086,03/15/2018,Cancelled,7302,Privately Towed Vehicle,10:21pm
+6225 E Platte Ave CIMARRON HILLS,2018-00048083,03/15/2018,Cancelled,3010,911 Hangup - Phase II,10:18pm
+S Powers Blvd / Milton E Proby Pkwy SECURITY,2018-00048076,03/15/2018,No Info,5301,Citizen Traffic Complaint,9:58pm
+8160 Piute Rd HWY 115,2018-00048075,03/15/2018,Cancelled,7304,911 Hangup - Phase II,9:54pm
+10135 Declaration Dr SECURITY,2018-00048072,03/15/2018,Resolved Onscene,5504,Disturbance,9:48pm
+Address Blocked,2018-00048059,03/15/2018,No Info,8501,Check the Welfare,9:17pm
+S Hwy 85 (on Road) / Fontaine Blvd SECURITY,2018-00048058,03/15/2018,Resolved Onscene,5303,Traffic Stop,9:16pm
+8451-8599 S MARKSHEFFEL RD FOUNTAIN,2018-00048052,03/15/2018,Resolved Onscene,6502,Traffic Stop,8:58pm
+Address Blocked,2018-00048051,03/15/2018,No Info,7302,Follow Up,8:57pm
+Address Blocked,2018-00048050,03/15/2018,No Info,6501,Suicidal Check The Welfare,8:56pm
+6355 La Costa Rd FALCON,2018-00048048,03/15/2018,No Info,3001,Repossessed Vehicle,8:50pm
+3065 Gil Johnson Pt FALCON,2018-00048047,03/15/2018,No Info,3001,Alarm Business,8:48pm
+4365 Drummond South STRATMOOR HILLS,2018-00048041,03/15/2018,No Info,7302,Suspicious Incident,8:29pm
+Address Blocked,2018-00048040,03/15/2018,No Info,2102,Follow Up,8:27pm
+Address Blocked,2018-00048039,03/15/2018,No Info,5303,Follow Up,8:23pm
+1100 Drury Ln SECURITY,2018-00048038,03/15/2018,No Info,6501,Citizen Contact,8:21pm
+1624 Hampton South STRATMOOR HILLS,2018-00048036,03/15/2018,No Info,7302,Privately Towed Vehicle,8:16pm
+1624 Hampton South STRATMOOR HILLS,2018-00048034,03/15/2018,No Info,7302,Privately Towed Vehicle,8:14pm
+11623 Cranston Dr FALCON,2018-00048032,03/15/2018,Case Report,4606,Suspicious Incident,8:04pm
+13100-13225 Dellacroce Rd FOUNTAIN,2018-00048027,03/15/2018,No Info,6504,911 Hangup - Phase II,7:49pm
+12135 HWY 94 COLORADO SPRINGS,2018-00048025,03/15/2018,Resolved Onscene,4604,Suspicious Incident,7:49pm
+1810 MAIN ST SECURITY,2018-00048020,03/15/2018,No Info,5200,Business Check,7:43pm
+Hwy 105 / Red Rock Ranch Dr PALMER LAKE,2018-00048018,03/15/2018,Resolved Onscene,1701,Traffic Stop,7:39pm
+3065 Gil Johnson Pt FALCON,2018-00048017,03/15/2018,No Info,3001,Alarm Business,7:38pm
+Mm163 I-25 (gps) MONUMENT,2018-00048016,03/15/2018,Cancelled,1900,Citizen Traffic Complaint,7:37pm
+Bradley Rd / Goldfield Dr SECURITY,2018-00048013,03/15/2018,No Info,5200,Motor Assist,7:32pm
+Milam Rd / Saxton Hollow Rd BLACK FOREST,2018-00048008,03/15/2018,Case Report,2102,Suspicious Incident,7:27pm
+6005 Omaha Blvd CIMARRON HILLS,2018-00047995,03/15/2018,No Info,3010,Alarm Business,6:50pm
+14980 Crooked Spur Ln COLORADO SPRINGS,2018-00047994,03/15/2018,Cancelled,1901,Alarm Residential,6:49pm
+620 Crestridge Ave STRATMOOR HILLS,2018-00047993,03/15/2018,No Info,7300,Suspicious Incident,6:48pm
+Address Blocked,2018-00047989,03/15/2018,Resolved Onscene,4606,Check the Welfare,6:33pm
+1225 Forest Rd STRATMOOR HILLS,2018-00047987,03/15/2018,No Info,7303,Citizen Contact,6:31pm
+12885 ROYAL BIRKDALE RD FALCON,2018-00047982,03/15/2018,No Info,4606,Suspicious Incident,6:26pm
+915 Lindstrom Dr SECURITY,2018-00047980,03/15/2018,Resolved Onscene,5200,Disturbance,6:21pm
+7390 Painted Rock Dr SECURITY,2018-00047978,03/15/2018,No Info,6502,Alarm Panic,6:13pm
+Address Blocked,2018-00047976,03/15/2018,No Info,6502,Check the Welfare,6:06pm
+Address Blocked,2018-00047972,03/15/2018,No Info,6501,Domestic Violence Cold,6:03pm
+7560 Space Village Ave CIMARRON HILLS,2018-00047971,03/15/2018,No Info,3010,Citizen Contact,6:03pm
+E Las Vegas St (on Road) / S Circle Dr STRATMOOR HILLS,2018-00047968,03/15/2018,No Info,7800,Traffic Stop,5:59pm
+Vollmer Rd / Swan Rd BLACK FOREST,2018-00047967,03/15/2018,No Info,2102,Suspicious Incident,5:55pm
+605 Peterson Rd CIMARRON HILLS,2018-00047966,03/15/2018,No Info,3010,Fraud,5:52pm
+MERIDIAN RD / E HWY 24 FALCON,2018-00047965,03/15/2018,No Info,4602,Traffic Stop,5:46pm
+Address Blocked,2018-00047960,03/15/2018,Resolved Onscene,1901,Check the Welfare,5:37pm
+12885 Royal Birkdale Rd FALCON,2018-00047959,03/15/2018,No Info,4606,Suspicious Incident,5:34pm
+Riverwalk Pkwy / Colorado Tech Dr FALCON,2018-00047957,03/15/2018,Cancelled,3001,Criminal Trespass Cold,5:26pm
+675 Upton Dr SECURITY,2018-00047954,03/15/2018,Resolved Onscene,5303,Missing Person,5:16pm
+Address Blocked,2018-00047953,03/15/2018,No Info,7302,Juvenile Complaint,5:14pm
+Mm163 I-25 (gps) MONUMENT,2018-00047948,03/15/2018,Cancelled,1900,Citizen Traffic Complaint,5:06pm
+14757 Air Garden Ln COLORADO SPRINGS,2018-00047947,03/15/2018,Resolved Onscene,1901,Alarm Panic,5:05pm
+2243 Jeanette Way FALCON,2018-00047945,03/15/2018,Case Report,3001,Criminal Trespass Auto Cold,5:03pm
+Address Blocked,2018-00047944,03/15/2018,Cancelled,6504,Follow Up,5:02pm
+Address Blocked,2018-00047942,03/15/2018,No Info,6501,Follow Up,5:00pm
+28900 E Hwy 24 CALHAN,2018-00047937,03/15/2018,No Info,4601,Traffic Stop,4:52pm
+Address Blocked,2018-00047934,03/15/2018,Resolved Onscene,1901,Check the Welfare,4:50pm
+Address Blocked,2018-00047933,03/15/2018,No Info,2102,Follow Up,4:46pm
+6856 Hidden Haven Way FALCON,2018-00047931,03/15/2018,Resolved Onscene,4606,Citizen Contact,4:45pm
+605 Peterson Rd CIMARRON HILLS,2018-00047929,03/15/2018,Cancelled,3010,911 Hangup - Phase II,4:41pm
+6700 - 6829 Dale Rd CIMARRON HILLS,2018-00047928,03/15/2018,Cancelled,3010,911 Hangup - Phase II,4:40pm
+Mm163 I-25 (gps) MONUMENT,2018-00047925,03/15/2018,No Info,1900,Motor Assist,4:34pm
+Address Blocked,2018-00047924,03/15/2018,Resolved Onscene,1904,Follow Up,4:32pm
+Address Blocked,2018-00047923,03/15/2018,No Info,3010,Check the Welfare,4:32pm
+Address Blocked,2018-00047922,03/15/2018,No Info,3001,Domestic Violence Cold,4:32pm
+Address Blocked,2018-00047921,03/15/2018,Resolved Onscene,4604,Check the Welfare,4:31pm
+11555 Meridian Market Vw FALCON,2018-00047919,03/15/2018,Resolved Onscene,4606,Suspicious Incident,4:31pm
+Address Blocked,2018-00047918,03/15/2018,No Info,7303,Follow Up,4:29pm
+10326 Angeles Rd FALCON,2018-00047915,03/15/2018,Resolved Onscene,4606,Abandoned Vehicle,4:28pm
+S 31st St / W Hwy 24 COLORADO SPRINGS,2018-00047914,03/15/2018,Case Report,8502,Traffic Stop,4:26pm
+2628 Equine Ct FALCON,2018-00047911,03/15/2018,Resolved Onscene,3001,Alarm Residential,4:23pm
+8110 Huber Rd FALCON,2018-00047909,03/15/2018,No Info,3001,Privately Towed Vehicle,4:22pm
+Address Blocked,2018-00047908,03/15/2018,No Info,3001,Runaway,4:22pm
+8110 Huber Rd FALCON,2018-00047907,03/15/2018,No Info,3001,Privately Towed Vehicle,4:19pm
+2515 Cody Dr SECURITY,2018-00047906,03/15/2018,Resolved Onscene,5100,Suspicious Incident,4:18pm
+9860 Hahn Rd CALHAN,2018-00047905,03/15/2018,Cancelled,4608,Drug Activity,4:17pm
+Mm163 I-25 (gps) MONUMENT,2018-00047901,03/15/2018,No Info,1900,Traffic Stop,4:07pm
+Gleneagle Dr / Westchester Dr COLORADO SPRINGS,2018-00047900,03/15/2018,Cancelled,1901,Traffic Accident,4:06pm
+1750 Deer Creek Rd MONUMENT,2018-00047896,03/15/2018,Cancelled,1900,Privately Towed Vehicle,4:01pm
+Address Blocked,2018-00047895,03/15/2018,Resolved Onscene,5100,Follow Up,4:00pm
+7681 Bonterra Ln SECURITY,2018-00047894,03/15/2018,Case Report,6502,Found Property,4:00pm
+W HWY 24 / S 31ST ST COLORADO SPRINGS,2018-00047892,03/15/2018,No Info,8502,Traffic Stop,3:47pm
+520 Peterson Rd CIMARRON HILLS,2018-00047891,03/15/2018,Resolved Onscene,3010,Theft Cold,3:47pm
+1675 Winnebago Rd CIMARRON HILLS,2018-00047884,03/15/2018,No Info,3001,Citizen Traffic Complaint,3:41pm
+1070 HIDDEN VALLEY RD COLORADO SPRINGS,2018-00047867,03/15/2018,No Info,1907,Criminal Trespass Cold,3:26pm
+Address Blocked,2018-00047865,03/15/2018,No Info,4602,Check the Welfare,3:25pm
+W Hwy 24 / Ridge Rd COLORADO SPRINGS,2018-00047861,03/15/2018,No Info,8502,Traffic Stop,3:20pm
+Address Blocked,2018-00047853,03/15/2018,Cancelled,7303,Follow Up,3:11pm
+6480 Pahokee Dr CIMARRON HILLS,2018-00047850,03/15/2018,Resolved Onscene,3001,Citizen Contact,3:06pm
+CONSTITUTION AVE / PETERSON RD CIMARRON HILLS,2018-00047846,03/15/2018,No Info,3001,Traffic Accident,3:00pm
+Address Blocked,2018-00047845,03/15/2018,No Info,6501,Follow Up,3:00pm
+Address Blocked,2018-00047843,03/15/2018,Case Report,2102,Check the Welfare,2:58pm
+2175 Shawnee Ct CIMARRON HILLS,2018-00047842,03/15/2018,No Info,3001,Fraud,2:58pm
+375 S Ellicott Hwy ELLICOTT,2018-00047841,03/15/2018,Case Report,4604,Theft Cold,2:56pm
+Jackrabbit Ln / Gunbarrel Dr Colorado Centre,2018-00047840,03/15/2018,Resolved Onscene,5504,Suspicious Incident,2:54pm
+Mm161 I-25 (gps) MONUMENT,2018-00047836,03/15/2018,No Info,1900,Traffic Accident,2:47pm
+605 Peterson Rd CIMARRON HILLS,2018-00047831,03/15/2018,No Info,3010,Fraud,2:41pm
+395 S Ellicott Hwy ELLICOTT,2018-00047829,03/15/2018,No Info,4604,School Resource Office,2:40pm
+11841 Royal Portrush Ct FALCON,2018-00047827,03/15/2018,Resolved Onscene,4606,Alarm Residential,2:37pm
+1378 Kachina Dr CIMARRON HILLS,2018-00047819,03/15/2018,No Info,3010,Traffic Stop,2:27pm
+Address Blocked,2018-00047816,03/15/2018,Case Report,3010,Check the Welfare,2:21pm
+8427 Crossfire Ct SECURITY,2018-00047815,03/15/2018,No Info,6502,Citizen Contact,2:21pm
+16775 Lovaca Dr PEYTON,2018-00047810,03/15/2018,Resolved Onscene,4607,Found Property,2:13pm
+Black Forest Rd / Cowpoke Rd BLACK FOREST,2018-00047799,03/15/2018,No Info,2103,Motor Assist,2:02pm
+136 FONTAINE BLVD SECURITY,2018-00047795,03/15/2018,No Info,5303,School Resource Office,1:59pm
+13120 Woodlake Rd FALCON,2018-00047793,03/15/2018,Cancelled,2102,Alarm Residential,1:55pm
+14550 Edison Rd EDISON,2018-00047791,03/15/2018,No Info,4609,Citizen Contact,1:54pm
+16800 Winchester Rd FALCON,2018-00047778,03/15/2018,No Info,2101,Animal Complaint,1:39pm
+1089 Walters Pt MONUMENT,2018-00047777,03/15/2018,Resolved Onscene,1904,Fraud,1:34pm
+Address Blocked,2018-00047772,03/15/2018,No Info,2103,Check the Welfare,1:19pm
+23800-25399 MYERS RD HANOVER,2018-00047764,03/15/2018,No Info,4609,Citizen Contact,1:01pm
+Mm161 I-25 (gps) MONUMENT,2018-00047763,03/15/2018,No Info,1900,Traffic Accident Unknown Injur,12:58pm
+384 FAIRWAY SOUTH STRATMOOR HILLS,2018-00047761,03/15/2018,Resolved Onscene,7302,Harassment Cold,12:57pm
+18320 MAIN ST PEYTON,2018-00047760,03/15/2018,No Info,4607,School Resource Office,12:56pm
+6445 Southfork Dr FALCON,2018-00047759,03/15/2018,Cancelled,4602,Fraud,12:56pm
+11145 E Hwy 24 FALCON,2018-00047757,03/15/2018,Resolved Onscene,4602,Disturbance,12:53pm
+6969 OTOOLE DR ELLICOTT,2018-00047746,03/15/2018,No Info,4602,Civil,12:27pm
+E Hwy 24 / Judge Orr Rd FALCON,2018-00047741,03/15/2018,No Info,4606,Traffic Stop,12:16pm
+Address Blocked,2018-00047729,03/15/2018,No Info,2101,Missing Child,11:54am
+57 Mcburney Blvd SECURITY,2018-00047728,03/15/2018,No Info,5303,Alarm Canceled,11:53am
+611 Valley St CIMARRON HILLS,2018-00047726,03/15/2018,Case Report,3010,Theft Cold,11:52am
+21450 La Plano Pt HANOVER,2018-00047723,03/15/2018,No Info,6504,Alarm Residential,11:47am
+10 Phone Message CAD Messaging,2018-00047717,03/15/2018,No Info,5506,Citizen Contact,11:37am
+12435 Snaffle Bit Rd FALCON,2018-00047715,03/15/2018,Case Report,4606,Theft Cold,11:33am
+Red Rock Ranch Dr / Sunburst Dr MONUMENT,2018-00047713,03/15/2018,Cancelled,1701,Abandoned Vehicle,11:30am
+Address Blocked,2018-00047705,03/15/2018,Resolved Onscene,4602,Check the Welfare,11:16am
+Address Blocked,2018-00047700,03/15/2018,No Info,7303,Suicidal Check The Welfare,11:10am
+Address Blocked,2018-00047693,03/15/2018,No Info,4606,Follow Up,11:03am
+AVENIDA HERMOSA VW / BOCA CHICA HTS HANOVER,2018-00047689,03/15/2018,No Info,6504,Assist Outside Agency,10:51am
+HWY 83 / HODGEN RD COLORADO SPRINGS,2018-00047687,03/15/2018,No Info,2101,Traffic Stop,10:49am
+9230 Chipita Park Rd CHIPITA PARK,2018-00047681,03/15/2018,Resolved Onscene,8501,Citizen Contact,10:42am
+14000 Hwy 94 ELLICOTT,2018-00047679,03/15/2018,No Info,4602,Motor Assist,10:39am
+Bradley Rd / Lincoln Plaza Dr SECURITY,2018-00047677,03/15/2018,No Info,5301,Traffic Accident Unknown Injur,10:38am
+15500-15799 Hwy 94 ELLICOTT,2018-00047675,03/15/2018,Cancelled,4602,911 Hangup - Phase II,10:34am
+2910 FRAZIER LN CIMARRON HILLS,2018-00047671,03/15/2018,No Info,3001,Abandoned Vehicle,10:32am
+S Marksheffel Rd (on Road) / Mesa Ridge Pkwy SECURITY,2018-00047660,03/15/2018,Summons,6502,Traffic Stop,10:20am
+4027 Breaking Dawn St Colorado Centre,2018-00047651,03/15/2018,No Info,5504,Abandoned Vehicle,10:04am
+Address Blocked,2018-00047649,03/15/2018,Case Report,5200,Restraining Order Violation,9:57am
+1610 Plowman Pl MONUMENT,2018-00047645,03/15/2018,No Info,1900,Citizen Contact,9:53am
+Address Blocked,2018-00047639,03/15/2018,No Info,5301,Check the Welfare,9:48am
+4555 WINDMILL FLATS CT FALCON,2018-00047638,03/15/2018,No Info,4602,Assist Outside Agency,9:46am
+8055 Parsonage Ln FALCON,2018-00047637,03/15/2018,No Info,3001,Abandoned Vehicle,9:46am
+W Hwy 24 / S Ridge Rd COLORADO SPRINGS,2018-00047630,03/15/2018,No Info,8502,Traffic Stop,9:38am
+7188 Caballero Ave SECURITY,2018-00047628,03/15/2018,Cancelled,6501,Fraud,9:35am
+Address Blocked,2018-00047627,03/15/2018,Resolved Onscene,4602,Follow Up,9:32am
+Boca Chica Hts / Indian Village Hts HANOVER,2018-00047626,03/15/2018,No Info,6504,Citizen Contact,9:31am
+Address Blocked,2018-00047624,03/15/2018,No Info,3001,Check the Welfare,9:30am
+1600 WOODMOOR DR MONUMENT,2018-00047619,03/15/2018,Tagged Vehicle for Tow,1900,Abandoned Vehicle,9:24am
+1300 W HIGBY RD MONUMENT,2018-00047618,03/15/2018,No Info,1904,School Resource Office,9:23am
+11990 SWINGLINE RD FALCON,2018-00047617,03/15/2018,No Info,4602,School Resource Office,9:22am
+1600 WOODMOOR DR MONUMENT,2018-00047610,03/15/2018,Cancelled,1900,Abandoned Vehicle,9:12am
+6834 Mission Rd CIMARRON HILLS,2018-00047608,03/15/2018,No Info,3010,Criminal Trespass Auto Cold,9:11am
+13413 Park Meadows Dr FALCON,2018-00047606,03/15/2018,Resolved Onscene,4606,Alarm Canceled,9:08am
+18710 Pinon Park Rd PEYTON,2018-00047604,03/15/2018,No Info,4607,Alarm Residential,9:07am
+Address Blocked,2018-00047602,03/15/2018,Resolved Onscene,5100,Restraining Order Violation,9:05am
+204 Kiva Rd SECURITY,2018-00047593,03/15/2018,Case Report,5303,Criminal Mischief Cold,8:55am
+2025 B ST STRATMOOR HILLS,2018-00047591,03/15/2018,Resolved Onscene,7302,Business Check,8:54am
+W HWY 24 / S RIDGE RD COLORADO SPRINGS,2018-00047590,03/15/2018,No Info,8502,Traffic Stop,8:52am
+Address Blocked,2018-00047587,03/15/2018,Resolved Onscene,7303,Follow Up,8:45am
+136 FONTAINE BLVD SECURITY,2018-00047586,03/15/2018,No Info,5303,School Resource Office,8:42am
+15000 Eastonville Rd FALCON,2018-00047585,03/15/2018,No Info,2102,Motor Assist,8:41am
+1300 W Higby Rd MONUMENT,2018-00047579,03/15/2018,No Info,1904,911 Hangup - Phase II,8:32am
+1750 PIROS DR CIMARRON HILLS,2018-00047576,03/15/2018,No Info,3001,School Resource Office,8:28am
+6673 Proud Eagle Ct CIMARRON HILLS,2018-00047575,03/15/2018,Resolved Onscene,3010,Alarm Residential,8:28am
+PIKE VIEW WAY / SUNBURST DR MONUMENT,2018-00047574,03/15/2018,No Info,1701,Abandoned Vehicle,8:25am
+15685 Eastonville Rd FALCON,2018-00047573,03/15/2018,Resolved Onscene,2101,Suspicious Incident,8:24am
+Address Blocked,2018-00047570,03/15/2018,No Info,5100,Sexual Assault Cold,8:22am
+Hathaway Dr / Atoka Dr CIMARRON HILLS,2018-00047566,03/15/2018,Summons,3010,Traffic Stop,8:19am
+13885 Bradshaw Rd PEYTON,2018-00047563,03/15/2018,Resolved Onscene,4607,Training,8:14am
+Address Blocked,2018-00047561,03/15/2018,No Info,5303,Domestic Violence Just Occurre,8:12am
+375 S ELLICOTT HWY ELLICOTT,2018-00047560,03/15/2018,No Info,4604,School Resource Office,8:12am
+Address Blocked,2018-00047557,03/15/2018,Resolved Onscene,4608,Check the Welfare,8:08am
+32110 Big Springs Rd Rush,2018-00047554,03/15/2018,No Info,4603,Suspicious Incident,8:06am
+568 Marquette Dr SECURITY,2018-00047552,03/15/2018,No Info,5100,Theft Cold,8:05am
+1540 Leoti Dr CIMARRON HILLS,2018-00047551,03/15/2018,No Info,3001,Suspicious Incident,8:05am
+Akers Dr / Running Deer Way FALCON,2018-00047548,03/15/2018,No Info,3001,Motor Assist,8:03am
+Hopkins Dr / Wilhelm Dr SECURITY,2018-00047547,03/15/2018,Cancelled,5200,Citizen Traffic Complaint,8:02am
+28900 E Hwy 24 CALHAN,2018-00047542,03/15/2018,No Info,4601,Traffic Stop,8:00am
+410 Sinton Ave STRATMOOR HILLS,2018-00047541,03/15/2018,Resolved Onscene,7300,Criminal Trespass Auto Cold,7:57am
+6570 LONSDALE DR CIMARRON HILLS,2018-00047536,03/15/2018,No Info,3001,Civil,7:52am
+Vollmer Rd / Lochwinnoch Ln BLACK FOREST,2018-00047535,03/15/2018,No Info,2103,Traffic Stop,7:52am
+830 Hathaway Dr CIMARRON HILLS,2018-00047533,03/15/2018,Summons,3010,Traffic Stop,7:51am
+1675 WINNEBAGO RD CIMARRON HILLS,2018-00047532,03/15/2018,No Info,3001,School Resource Office,7:51am
+11450 BLACK FOREST RD BLACK FOREST,2018-00047530,03/15/2018,Resolved Onscene,2103,Traffic Stop,7:49am
+12885 Royal Birkdale Rd FALCON,2018-00047527,03/15/2018,Case Report,4606,Drug Activity,7:42am
+Cody Dr / Ivanhoe Dr SECURITY,2018-00047525,03/15/2018,No Info,5100,Traffic Stop,7:40am
+Address Blocked,2018-00047520,03/15/2018,Cancelled,4606,Follow Up,7:35am
+Address Blocked,2018-00047517,03/15/2018,Cancelled,1900,Follow Up,7:33am
+Address Blocked,2018-00047515,03/15/2018,No Info,3001,Follow Up,7:30am
+3743 Red Rock Ranch Dr MONUMENT,2018-00047513,03/15/2018,No Info,1701,Traffic Stop,7:26am
+I 25 NB / COUNTY LINE RD MONUMENT,2018-00047510,03/15/2018,Cancelled,1900,Traffic Accident With Injury,7:21am
+Address Blocked,2018-00047509,03/15/2018,No Info,5200,Attempt to Locate,7:21am
+11590 Black Forest Rd BLACK FOREST,2018-00047507,03/15/2018,No Info,2103,Alarm Business,7:18am
+Hathaway Dr / Seneca Rd CIMARRON HILLS,2018-00047503,03/15/2018,Summons,3010,Traffic Stop,7:13am
+13099 I 25 NB USAF ACADEMY,2018-00047502,03/15/2018,Cancelled,1901,Motor Assist,7:13am
+18320 MAIN ST PEYTON,2018-00047493,03/15/2018,No Info,4607,School Resource Office,7:04am
+Shoup Rd / Hwy 83 COLORADO SPRINGS,2018-00047487,03/15/2018,Resolved Onscene,1901,Traffic Stop,6:52am
+10255 LAMBERT RD FALCON,2018-00047480,03/15/2018,No Info,4606,School Resource Office,6:37am
+Address Blocked,2018-00047477,03/15/2018,No Info,4606,Suicide Attempt,6:28am
+PETERSON RD / PANAMINT CT CIMARRON HILLS,2018-00047472,03/15/2018,No Info,3010,Traffic Stop,6:17am
+4702 Witches Hollow Ln SECURITY,2018-00047468,03/15/2018,No Info,5100,Suspicious Incident,5:56am
+Main St / Maple Dr SECURITY,2018-00047462,03/15/2018,No Info,5100,Traffic Stop,5:36am
+N Marksheffel Rd / Electronic Dr FALCON,2018-00047461,03/15/2018,No Info,3001,Traffic Stop,5:31am
+1810 MAIN ST SECURITY,2018-00047446,03/15/2018,No Info,5200,Business Check,4:03am
+1442 Hiawatha Dr CIMARRON HILLS,2018-00047431,03/15/2018,No Info,3010,Suspicious Incident,3:18am
+1095 Western Dr CIMARRON HILLS,2018-00047421,03/15/2018,No Info,3010,Privately Towed Vehicle,3:03am
+510 Security Blvd SECURITY,2018-00047417,03/15/2018,No Info,5100,Business Check,2:42am
+Bradley Rd / S Academy Blvd SECURITY,2018-00047412,03/15/2018,No Info,5301,Suspicious Incident,2:29am
+S Academy Blvd / B St STRATMOOR HILLS,2018-00047404,03/15/2018,No Info,7302,Traffic Stop,1:55am
+Constitution Ave / Piros Dr CIMARRON HILLS,2018-00047403,03/15/2018,No Info,3001,Traffic Stop,1:53am
+N Powers Blvd / Victor Pl CIMARRON HILLS,2018-00047396,03/15/2018,No Info,3001,Traffic Stop,1:27am
+S Academy Blvd / S Hwy 85 SECURITY,2018-00047388,03/15/2018,No Info,7303,Traffic Stop,1:17am
+1810 MAIN ST SECURITY,2018-00047386,03/15/2018,No Info,5200,Business Check,1:10am
+805 Main St SECURITY,2018-00047383,03/15/2018,No Info,5100,Suspicious Incident,12:56am
+2477 PETERSON RD CIMARRON HILLS,2018-00047380,03/15/2018,No Info,3001,Business Check,12:51am
+10120 Shoup Rd BLACK FOREST,2018-00047379,03/15/2018,Case Report,2102,Suspicious Incident,12:47am
+Hwy 83 / Hodgen Rd COLORADO SPRINGS,2018-00047372,03/15/2018,Resolved Onscene,2101,Traffic Stop,12:33am
+1300 Valley St CIMARRON HILLS,2018-00047371,03/15/2018,No Info,3010,Suspicious Incident,12:31am
+AMELIA ST / E PLATTE AVE CIMARRON HILLS,2018-00047369,03/15/2018,No Info,3010,Parking Complaint,12:23am
+Address Blocked,2018-00047365,03/15/2018,No Info,7302,Check the Welfare,12:05am
+Main St / Pecos Dr SECURITY,2018-00047364,03/14/2018,No Info,5100,Traffic Stop,11:56pm
+Barkley Rd / Willshire Dr STRATMOOR HILLS,2018-00047362,03/14/2018,No Info,7303,Suspicious Incident,11:53pm
+5 WIDEFIELD BLVD SECURITY,2018-00047361,03/14/2018,No Info,6501,Traffic Stop,11:52pm
+Cliveden Hts / Hartford St STRATMOOR HILLS,2018-00047360,03/14/2018,No Info,7303,Traffic Stop,11:46pm
+10685 Snowbrush Dr FALCON,2018-00047359,03/14/2018,No Info,4606,Shots Fired,11:46pm
+Hartford St / S Academy Blvd STRATMOOR HILLS,2018-00047355,03/14/2018,No Info,7303,Traffic Stop,11:37pm
+E Woodmen Rd / E Hwy 24 FALCON,2018-00047354,03/14/2018,No Info,4606,Traffic Stop,11:32pm
+Main St / Crest Pl SECURITY,2018-00047353,03/14/2018,No Info,5100,Traffic Stop,11:31pm
+B St / Crestridge Ave STRATMOOR HILLS,2018-00047352,03/14/2018,Summons,7302,Traffic Stop,11:31pm
+1205 Idylwood Dr STRATMOOR HILLS,2018-00047350,03/14/2018,No Info,7303,Citizen Contact,11:23pm
+Roller Coaster Rd / County Line Rd MONUMENT,2018-00047349,03/14/2018,Resolved Onscene,1903,Suspicious Incident,11:23pm
+17970 W HWY 105 MONUMENT,2018-00047347,03/14/2018,No Info,1701,Business Check,11:17pm
+6700-6788 PANAMINT CT CIMARRON HILLS,2018-00047346,03/14/2018,No Info,3010,Business Check,11:13pm
+Main St / Birch Dr SECURITY,2018-00047345,03/14/2018,No Info,5100,Traffic Stop,11:13pm
+S Academy Blvd / Coventry Dr STRATMOOR HILLS,2018-00047344,03/14/2018,No Info,7303,Traffic Stop,11:12pm
+S Hwy 85 / Southmoor Dr FOUNTAIN,2018-00047343,03/14/2018,Resolved Onscene,5506,Traffic Stop,11:12pm
+38 N Dartmouth St SECURITY,2018-00047340,03/14/2018,No Info,5303,Repossessed Vehicle,11:07pm
+Judge Orr Rd / E Hwy 24 FALCON,2018-00047339,03/14/2018,No Info,4606,Traffic Stop,11:07pm
+I 25 Nb / N Academy Blvd USAF ACADEMY,2018-00047337,03/14/2018,No Info,1901,Motor Assist,11:04pm
+S Academy Blvd / Milton E Proby Pkwy On Ramp SECURITY,2018-00047336,03/14/2018,No Info,5301,Traffic Stop,11:00pm
+435 Fleming St SECURITY,2018-00047329,03/14/2018,No Info,5303,Noise Complaint,10:36pm
+Grinnell Blvd / Bradley Rd SECURITY,2018-00047326,03/14/2018,No Info,5200,Motor Assist,10:32pm
+7702 Old Spec Rd FALCON,2018-00047320,03/14/2018,Resolved Onscene,4606,Shots Fired,10:10pm
+7530 Stephenville Rd FALCON,2018-00047318,03/14/2018,Resolved Onscene,4606,Shots Fired,10:06pm
+625 Hackberry Dr SECURITY,2018-00047313,03/14/2018,No Info,5100,Assist Outside Agency,9:54pm
+3275 Akers Dr FALCON,2018-00047312,03/14/2018,No Info,3001,Open Door or Window,9:53pm
+628 S 31ST ST COLORADO SPRINGS,2018-00047310,03/14/2018,No Info,8502,Criminal Trespass In Progress,9:45pm
+Meridian Rd / E Hwy 24 FALCON,2018-00047304,03/14/2018,Resolved Onscene,4602,Criminal Trespass In Progress,9:19pm
+12380 Old Barn Rd FALCON,2018-00047298,03/14/2018,No Info,2101,Citizen Contact,9:03pm
+100-139 Amherst St SECURITY,2018-00047292,03/14/2018,No Info,6501,911 Hangup - Phase II,8:57pm
+E HWY 105 / HWY 83 Woodmoor,2018-00047291,03/14/2018,Cancelled,1904,Citizen Traffic Complaint,8:56pm
+23 OTOWI DR SECURITY,2018-00047289,03/14/2018,No Info,5303,911 Hangup - Phase II,8:55pm
+Address Blocked,2018-00047288,03/14/2018,No Info,8502,Check the Welfare,8:51pm
+17067 Blue Mist Grv MONUMENT,2018-00047280,03/14/2018,Case Report,1904,Fraud,8:26pm
+Address Blocked,2018-00047276,03/14/2018,No Info,5100,Follow Up,8:10pm
+Mm156 I-25 North Of Northgate (gps) USAF ACADEMY,2018-00047273,03/14/2018,Cancelled,1901,Citizen Traffic Complaint,8:06pm
+17555 Flat Creek Rd FALCON,2018-00047268,03/14/2018,No Info,4602,Criminal Mischief Cold,7:49pm
+GLENEAGLE DR / CHERRY HILLS WAY COLORADO SPRINGS,2018-00047261,03/14/2018,Summons,1901,Traffic Stop,7:34pm
+5275 YUCATAN DR SECURITY,2018-00047260,03/14/2018,Cancelled,5301,911 Hangup - Phase II,7:26pm
+5050 Marabou Way SECURITY,2018-00047257,03/14/2018,Resolved Onscene,5200,Repossessed Vehicle,7:11pm
+6223 Gossamer St SECURITY,2018-00047255,03/14/2018,No Info,5303,Burglary Residential Cold,7:09pm
+605 Peterson Rd CIMARRON HILLS,2018-00047252,03/14/2018,No Info,3010,Privately Towed Vehicle,7:01pm
+N Meridian Rd / Stapleton Dr FALCON,2018-00047251,03/14/2018,Resolved Onscene,4606,Criminal Trespass In Progress,7:00pm
+Address Blocked,2018-00047249,03/14/2018,No Info,5303,Check the Welfare,6:53pm
+617 Raemar Dr SECURITY,2018-00047246,03/14/2018,Case Report,6501,Burglary Residential Cold,6:45pm
+SCOTTSDALE DR / FALCONS NEST LOOP COLORADO SPRINGS,2018-00047244,03/14/2018,Resolved Onscene,1901,Suspicious Incident,6:44pm
+Address Blocked,2018-00047242,03/14/2018,No Info,4604,Child Abuse In Progress,6:41pm
+1890 Chamberlin South STRATMOOR HILLS,2018-00047238,03/14/2018,Cancelled,7302,Citizen Traffic Complaint,6:30pm
+1865 WOODMOOR DR MONUMENT,2018-00047237,03/14/2018,Resolved Onscene,1900,Business Check,6:29pm
+Grinnell Blvd / Fontaine Blvd SECURITY,2018-00047235,03/14/2018,No Info,5303,Traffic Accident With Injury,6:23pm
+10480 Rainbow Bridge Dr FALCON,2018-00047234,03/14/2018,No Info,4606,Harassment Cold,6:21pm
+1397 Commanchero Ct CIMARRON HILLS,2018-00047228,03/14/2018,No Info,3010,Theft Cold,6:08pm
+8700 W Hwy 24 CHIPITA PARK,2018-00047227,03/14/2018,No Info,8501,Traffic Accident Unknown Injur,6:07pm
+5950 W HWY 24 CASCADE,2018-00047226,03/14/2018,No Info,8501,Traffic Accident With Injury,6:07pm
+5 Widefield Blvd SECURITY,2018-00047223,03/14/2018,No Info,6501,Business Check,6:01pm
+5491 Sengbeil Rd Rush,2018-00047221,03/14/2018,Cancelled,4603,911 Hangup - Phase II,5:59pm
+3023 W Colorado Ave COLORADO SPRINGS,2018-00047219,03/14/2018,No Info,8502,Assault Cold,5:56pm
+4576 Bramble Ln Colorado Centre,2018-00047216,03/14/2018,Resolved Onscene,5504,Abandoned Vehicle,5:54pm
+9311 Peaceful Meadow St Colorado Centre,2018-00047212,03/14/2018,Resolved Onscene,5504,Parking Complaint,5:50pm
+19840 Oasis Ave ELLICOTT,2018-00047209,03/14/2018,Resolved Onscene,4602,Disturbance,5:45pm
+5491 Sengbeil Rd Rush,2018-00047208,03/14/2018,Case Report,4603,Disturbance,5:44pm
+6525 Fountain Mesa Rd FOUNTAIN,2018-00047202,03/14/2018,No Info,6501,Drunk Person,5:34pm
+1531 Maxwell St STRATMOOR HILLS,2018-00047200,03/14/2018,No Info,7303,Disturbance,5:32pm
+501 Security Blvd SECURITY,2018-00047199,03/14/2018,No Info,5100,Keep the Peace,5:29pm
+Address Blocked,2018-00047197,03/14/2018,Resolved Onscene,1901,Suicidal Check The Welfare,5:28pm
+11598 Hahn Rd CALHAN,2018-00047193,03/14/2018,No Info,4608,911 Hangup - Phase II,5:25pm
+1072 Maxwell St STRATMOOR HILLS,2018-00047192,03/14/2018,No Info,7303,Disturbance,5:25pm
+6180 Water Trough Trl SECURITY,2018-00047191,03/14/2018,No Info,5504,Alarm Residential,5:17pm
+2595 Wooddale Rd STRATMOOR HILLS,2018-00047187,03/14/2018,No Info,7303,Disturbance,5:12pm
+219 Cielo Vista St SECURITY,2018-00047183,03/14/2018,No Info,6501,Disturbance,5:04pm
+Mm119 I-25 HANOVER,2018-00047178,03/14/2018,Cancelled,6504,Citizen Traffic Complaint,4:55pm
+309 CRANBROOK CIR STRATMOOR HILLS,2018-00047173,03/14/2018,Case Report,7300,Citizen Contact,4:47pm
+1095 Ford St CIMARRON HILLS,2018-00047172,03/14/2018,No Info,3010,Harassment Cold,4:45pm
+S Academy Blvd / S Hwy 85 SECURITY,2018-00047171,03/14/2018,No Info,7303,Traffic Stop,4:45pm
+1095 FORD ST CIMARRON HILLS,2018-00047170,03/14/2018,No Info,3010,Citizen Contact,4:45pm
+19982 W Elk Creek Dr MONUMENT,2018-00047166,03/14/2018,Resolved Onscene,2101,Fraud,4:40pm
+20060 High Stakes Vw HANOVER,2018-00047165,03/14/2018,No Info,6504,Fraud,4:38pm
+101 Landoe Ln SECURITY,2018-00047164,03/14/2018,No Info,5303,Animal Complaint,4:35pm
+13185 Davis Rd FALCON,2018-00047163,03/14/2018,No Info,4602,911 Hangup - Phase II,4:34pm
+Address Blocked,2018-00047158,03/14/2018,No Info,4601,Check the Welfare,4:28pm
+28900 E Hwy 24 CALHAN,2018-00047157,03/14/2018,No Info,4601,Traffic Stop,4:27pm
+Burgess Rd / Vollmer Rd BLACK FOREST,2018-00047155,03/14/2018,No Info,2103,Traffic Accident Unknown Injur,4:20pm
+Burgess Rd / Black Forest Rd BLACK FOREST,2018-00047152,03/14/2018,No Info,2103,Traffic Accident Unknown Injur,4:19pm
+E Hwy 24 / N Marksheffel Rd CIMARRON HILLS,2018-00047151,03/14/2018,Resolved Onscene,3001,Traffic Accident Unknown Injur,4:17pm
+N Marksheffel Rd / E Hwy 24 CIMARRON HILLS,2018-00047149,03/14/2018,No Info,3001,Traffic Accident Unknown Injur,4:16pm
+Address Blocked,2018-00047150,03/14/2018,No Info,3010,Check the Welfare,4:15pm
+18710 Pinon Park Rd PEYTON,2018-00047145,03/14/2018,No Info,4607,Alarm Residential,4:10pm
+780 Foxwood Dr SECURITY,2018-00047142,03/14/2018,No Info,5200,Criminal Mischief Cold,4:04pm
+145 Ithaca St SECURITY,2018-00047140,03/14/2018,No Info,6501,Disturbance,4:02pm
+1360 - 1449 Symphony Hts MONUMENT,2018-00047139,03/14/2018,No Info,1900,911 Hangup - Phase II,4:01pm
+N Neely Rd / S Lauppe Rd EDISON,2018-00047138,03/14/2018,No Info,4609,Abandoned Vehicle,3:59pm
+1550 Tahlequah Dr CIMARRON HILLS,2018-00047137,03/14/2018,No Info,3001,Suspicious Incident,3:59pm
+Del Rio Rd / Oliver Rd FALCON,2018-00047136,03/14/2018,Resolved Onscene,4606,Traffic Stop,3:57pm
+1255 Kachina Dr CIMARRON HILLS,2018-00047134,03/14/2018,Cancelled,3010,Fraud,3:55pm
+12530 Motley Rd FALCON,2018-00047133,03/14/2018,No Info,4606,Fraud,3:54pm
+2515 Cody Dr SECURITY,2018-00047131,03/14/2018,No Info,5100,Harassment Cold,3:50pm
+10994 N Ellicott Hwy PEYTON,2018-00047129,03/14/2018,No Info,4608,Burglary Residential Cold,3:49pm
+13525 Gymkhana Rd FALCON,2018-00047124,03/14/2018,No Info,4602,Burglary Residential Cold,3:40pm
+S Hwy 85 / S Academy Blvd SECURITY,2018-00047120,03/14/2018,No Info,7303,Traffic Stop,3:34pm
+2716 Brookline Ct STRATMOOR HILLS,2018-00047118,03/14/2018,No Info,7303,Noise Complaint,3:33pm
+Address Blocked,2018-00047119,03/14/2018,No Info,1900,Sexual Assault on a Child,3:32pm
+1625 Plowman Pl MONUMENT,2018-00047117,03/14/2018,Resolved Onscene,1900,Disturbance,3:32pm
+7560 Space Village Ave CIMARRON HILLS,2018-00047112,03/14/2018,No Info,3010,Citizen Contact,3:23pm
+1715 Winnebago Rd CIMARRON HILLS,2018-00047106,03/14/2018,Cancelled,3001,Alarm Residential,3:07pm
+15400 Falcon Hwy FALCON,2018-00047101,03/14/2018,Resolved Onscene,4602,Traffic Stop,3:02pm
+Address Blocked,2018-00047098,03/14/2018,Resolved Onscene,5100,Follow Up,3:01pm
+Address Blocked,2018-00047097,03/14/2018,No Info,5303,Check the Welfare,3:00pm
+5968 San Mateo Dr SECURITY,2018-00047096,03/14/2018,No Info,5200,Citizen Contact,2:58pm
+8635 Garrison Rd FALCON,2018-00047093,03/14/2018,No Info,4606,Animal Complaint,2:56pm
+Address Blocked,2018-00047091,03/14/2018,No Info,4606,Sexual Assault on a Child,2:55pm
+Address Blocked,2018-00047082,03/14/2018,No Info,3906,Check the Welfare,2:47pm
+Address Blocked,2018-00047079,03/14/2018,No Info,5100,Attempt to Locate,2:42pm
+645 Quebec St SECURITY,2018-00047078,03/14/2018,No Info,6501,Parking Complaint,2:42pm
+3275 Akers Dr FALCON,2018-00047075,03/14/2018,No Info,3001,VIN VERIFICATION,2:38pm
+10620 MALTESE PT FALCON,2018-00047072,03/14/2018,No Info,4606,Civil,2:36pm
+CLOVERLEAF RD / BLUE MIST GRV MONUMENT,2018-00047068,03/14/2018,No Info,1904,Suspicious Incident,2:32pm
+Address Blocked,2018-00047061,03/14/2018,No Info,5506,Follow Up,2:25pm
+Address Blocked,2018-00047060,03/14/2018,No Info,3001,Follow Up,2:24pm
+568 MARQUETTE DR SECURITY,2018-00047057,03/14/2018,No Info,5100,Abandoned Vehicle,2:22pm
+16030 ALTA PLZ PEYTON,2018-00047051,03/14/2018,No Info,4607,Civil,2:17pm
+Address Blocked,2018-00047047,03/14/2018,Resolved Onscene,7302,Follow Up,2:12pm
+4701-4799 BRADLEY RD SECURITY,2018-00047038,03/14/2018,No Info,5301,Motor Assist,1:59pm
+Security Blvd / Leta Dr SECURITY,2018-00047037,03/14/2018,No Info,5100,Traffic Stop,1:56pm
+12614 ANGELINA DR FALCON,2018-00047036,03/14/2018,No Info,4606,Civil,1:55pm
+Address Blocked,2018-00047032,03/14/2018,No Info,1900,Suicidal Check The Welfare,1:49pm
+136 FONTAINE BLVD SECURITY,2018-00047025,03/14/2018,No Info,5303,School Resource Office,1:44pm
+Address Blocked,2018-00047017,03/14/2018,No Info,5100,Follow Up,1:34pm
+Address Blocked,2018-00047014,03/14/2018,No Info,7303,Follow Up,1:32pm
+2180 LEOTI DR CIMARRON HILLS,2018-00047013,03/14/2018,No Info,3001,Abandoned Vehicle,1:31pm
+352 Main St SECURITY,2018-00047011,03/14/2018,No Info,5100,Traffic Stop,1:29pm
+Address Blocked,2018-00047003,03/14/2018,Resolved Onscene,5100,Attempt to Locate,1:15pm
+E WOODMEN RD / GOLDEN SAGE RD FALCON,2018-00047002,03/14/2018,Resolved Onscene,4606,Traffic Stop,1:15pm
+4700-4798 GLADIATOR DR SECURITY,2018-00047001,03/14/2018,No Info,5100,Business Check,1:13pm
+5869 PALMER PARK BLVD CIMARRON HILLS,2018-00046996,03/14/2018,No Info,3001,Civil,1:06pm
+3550 W High St COLORADO SPRINGS,2018-00046988,03/14/2018,No Info,8502,Traffic Stop,12:56pm
+15700-15829 Phantom Canyon Vw HWY 115,2018-00046982,03/14/2018,Cancelled,7304,911 Hangup - Phase II,12:48pm
+Address Blocked,2018-00046980,03/14/2018,Resolved Onscene,5303,Follow Up,12:42pm
+1776 WOODMOOR DR MONUMENT,2018-00046974,03/14/2018,No Info,1900,School Resource Office,12:35pm
+6880 Palmer Park Blvd CIMARRON HILLS,2018-00046968,03/14/2018,No Info,3001,Privately Towed Vehicle,12:27pm
+Port Of Entry Mm162 MONUMENT,2018-00046964,03/14/2018,No Info,1900,Assist Outside Agency,12:20pm
+Address Blocked,2018-00046963,03/14/2018,Case Report,3001,Sexual Assault Cold,12:19pm
+Address Blocked,2018-00046959,03/14/2018,Resolved Onscene,5100,Follow Up,12:16pm
+Address Blocked,2018-00046958,03/14/2018,No Info,5303,Sexual Assault on a Child,12:10pm
+Address Blocked,2018-00046954,03/14/2018,No Info,5506,Follow Up,12:01pm
+568 Marquette Dr SECURITY,2018-00046951,03/14/2018,No Info,5100,Abandoned Vehicle,11:58am
+4356 E Anvil Dr Colorado Centre,2018-00046950,03/14/2018,No Info,5504,Alarm Residential,11:57am
+1533 Hartford St STRATMOOR HILLS,2018-00046947,03/14/2018,Case Report,7303,Burglary Residential Cold,11:47am
+8635 Garrison Rd FALCON,2018-00046938,03/14/2018,No Info,4606,Fraud,11:43am
+Address Blocked,2018-00046933,03/14/2018,Outside Agency,2103,Follow Up,11:35am
+615 Valley St CIMARRON HILLS,2018-00046932,03/14/2018,Resolved Onscene,3010,Citizen Contact,11:34am
+Manitou Incline Trail,2018-00046930,03/14/2018,No Info,8505,Citizen Contact,11:33am
+7144 DOVE VALLEY PL SECURITY,2018-00046927,03/14/2018,Tagged Vehicle for Tow,6502,Abandoned Vehicle,11:30am
+17050 S PEYTON HWY HANOVER,2018-00046925,03/14/2018,No Info,6604,School Resource Office,11:29am
+Address Blocked,2018-00046924,03/14/2018,No Info,6502,Follow Up,11:27am
+E Woodmen Rd / Mclaughlin Rd FALCON,2018-00046922,03/14/2018,No Info,4606,Disturbance,11:23am
+1475 B ST STRATMOOR HILLS,2018-00046921,03/14/2018,Resolved Onscene,7302,Business Check,11:22am
+12990 Vollmer Rd BLACK FOREST,2018-00046918,03/14/2018,Resolved Onscene,2102,Citizen Contact,11:17am
+Address Blocked,2018-00046916,03/14/2018,No Info,6502,Follow Up,11:12am
+19395 Sherwood Trl MONUMENT,2018-00046915,03/14/2018,Case Report,1903,Assist Outside Agency,11:12am
+Address Blocked,2018-00046911,03/14/2018,No Info,6502,Follow Up,11:06am
+11655 MERIDIAN MARKET VW FALCON,2018-00046910,03/14/2018,No Info,4606,Business Check,11:06am
+1505-1649 N POWERS BLVD CIMARRON HILLS,2018-00046906,03/14/2018,Resolved Onscene,3001,Citizen Contact,11:01am
+1165 Brockdell Dr SECURITY,2018-00046902,03/14/2018,No Info,5303,Message Delivery,10:57am
+Shoup Rd / Crump Rd BLACK FOREST,2018-00046901,03/14/2018,Cancelled,2103,Traffic Accident,10:57am
+12050 Falcon Hwy FALCON,2018-00046900,03/14/2018,Resolved Onscene,4602,Suspicious Incident,10:53am
+235 SUMAC DR SECURITY,2018-00046894,03/14/2018,No Info,5100,School Resource Office,10:42am
+351-499 Falcon Pkwy Schriever AFB,2018-00046892,03/14/2018,No Info,4000,911 Hangup - Phase II,10:38am
+Hathaway Dr / Western Dr CIMARRON HILLS,2018-00046886,03/14/2018,Resolved Onscene,3010,Suspicious Incident,10:36am
+8055 Parsonage Ln FALCON,2018-00046885,03/14/2018,No Info,3001,Parking Complaint,10:34am
+1348 NOKOMIS DR CIMARRON HILLS,2018-00046884,03/14/2018,No Info,3010,911 Hangup - Phase II,10:33am
+1213 Denise Dr STRATMOOR HILLS,2018-00046882,03/14/2018,Resolved Onscene,7303,Disturbance,10:31am
+13480 SIERRA MADRE DR BLACK FOREST,2018-00046880,03/14/2018,No Info,2102,Civil,10:30am
+Address Blocked,2018-00046878,03/14/2018,No Info,1901,Check the Welfare,10:28am
+Address Blocked,2018-00046877,03/14/2018,No Info,7303,Follow Up,10:25am
+Address Blocked,2018-00046872,03/14/2018,Resolved Onscene,7300,Follow Up,10:19am
+Address Blocked,2018-00046861,03/14/2018,No Info,8502,Follow Up,10:03am
+Eastonville Rd / Mclaughlin Rd FALCON,2018-00046855,03/14/2018,Resolved Onscene,4606,Citizen Contact,9:55am
+7679 Tompkins Rd FALCON,2018-00046851,03/14/2018,Resolved Onscene,4606,Criminal Mischief Cold,9:51am
+E Woodmen Rd / E Hwy 24 FALCON,2018-00046850,03/14/2018,No Info,4606,Citizen Traffic Complaint,9:51am
+7904 ANTELOPE MEADOWS CIR FALCON,2018-00046849,03/14/2018,No Info,4606,Theft Cold,9:49am
+7035 Kipling St SECURITY,2018-00046842,03/14/2018,No Info,6501,Burglary Residential Cold,9:41am
+Mm158 I-25 South Of Baptist (gps) Gleneagle,2018-00046841,03/14/2018,No Info,1900,Citizen Traffic Complaint,9:38am
+1201 Widefield Dr SECURITY,2018-00046834,03/14/2018,No Info,5100,Civil,9:34am
+18820 E Hwy 24 PEYTON,2018-00046832,03/14/2018,Case Report,4607,Burglary Business Cold,9:30am
+501 Security Blvd SECURITY,2018-00046825,03/14/2018,Resolved Onscene,5100,Keep the Peace,9:21am
+Address Blocked,2018-00046824,03/14/2018,Case Report,3010,Sexual Assault on a Child,9:21am
+615 WIDEFIELD DR SECURITY,2018-00046820,03/14/2018,Resolved Onscene,5100,School Resource Office,9:17am
+Address Blocked,2018-00046815,03/14/2018,No Info,5303,Suicidal Check The Welfare,9:06am
+E Baptist Rd / Roller Coaster Rd MONUMENT,2018-00046810,03/14/2018,Cancelled,1904,Hazard,8:59am
+750 WESTERN DR CIMARRON HILLS,2018-00046807,03/14/2018,No Info,3010,Civil,8:56am
+S ACADEMY BLVD / S HWY 85 SECURITY,2018-00046805,03/14/2018,No Info,7303,Traffic Accident,8:55am
+625 HATHAWAY DR CIMARRON HILLS,2018-00046800,03/14/2018,No Info,3010,Civil,8:50am
+1300 W HIGBY RD MONUMENT,2018-00046798,03/14/2018,No Info,1904,School Resource Office,8:48am
+2010 Duckwood Rd FOUNTAIN,2018-00046794,03/14/2018,No Info,5506,Abandoned Vehicle,8:44am
+19255 MONUMENT HILL RD MONUMENT,2018-00046793,03/14/2018,No Info,1900,School Resource Office,8:42am
+10255 LAMBERT RD FALCON,2018-00046792,03/14/2018,No Info,4606,School Resource Office,8:40am
+7425 Treasure Trail Cir SECURITY,2018-00046790,03/14/2018,No Info,6501,911 Hangup,8:38am
+136 FONTAINE BLVD SECURITY,2018-00046788,03/14/2018,No Info,5303,School Resource Office,8:36am
+829 HATHAWAY DR CIMARRON HILLS,2018-00046786,03/14/2018,No Info,3010,Civil,8:35am
+1135 Modell Dr SECURITY,2018-00046785,03/14/2018,No Info,5200,Alarm Residential,8:35am
+Goldfield Dr / Bradley Rd SECURITY,2018-00046783,03/14/2018,No Info,5200,Traffic Stop,8:33am
+Address Blocked,2018-00046782,03/14/2018,Resolved Onscene,4602,Follow Up,8:31am
+I 25 / Rancho Colorado Blvd FOUNTAIN,2018-00046780,03/14/2018,No Info,6504,Traffic Stop,8:27am
+2970 Richmond Dr CIMARRON HILLS,2018-00046779,03/14/2018,Resolved Onscene,3001,Disturbance,8:27am
+29760 E Hwy 24 CALHAN,2018-00046777,03/14/2018,No Info,4601,Traffic Stop,8:26am
+6570 LONSDALE DR CIMARRON HILLS,2018-00046775,03/14/2018,No Info,3001,Civil,8:23am
+14550 Tiboria Loop PEYTON,2018-00046773,03/14/2018,Resolved Onscene,4607,Suspicious Incident,8:22am
+Address Blocked,2018-00046768,03/14/2018,Resolved Onscene,4606,Suicidal Check The Welfare,8:17am
+Meridian Rd / Smith Rd FALCON,2018-00046766,03/14/2018,No Info,4602,Loose Horse,8:15am
+420 S RUSH RD Rush,2018-00046760,03/14/2018,No Info,4605,School Resource Office,8:04am
+330 Main St SECURITY,2018-00046758,03/14/2018,Resolved Onscene,5100,Disturbance,8:03am
+Cambridge Ave / Claiborne Rd STRATMOOR HILLS,2018-00046756,03/14/2018,No Info,7303,Parking Complaint,8:02am
+W Hwy 24 / S Ridge Rd COLORADO SPRINGS,2018-00046755,03/14/2018,Resolved Onscene,8502,Traffic Stop,8:01am
+6034 SAN MATEO DR SECURITY,2018-00046753,03/14/2018,No Info,5200,911 Hangup - Phase II,7:58am
+Meadowbrook Pkwy / Brookings Dr FALCON,2018-00046748,03/14/2018,No Info,3001,Traffic Stop,7:50am
+Maxwell St / Naples Dr STRATMOOR HILLS,2018-00046745,03/14/2018,Resolved Onscene,7303,Menacing,7:45am
+733 HATHAWAY DR CIMARRON HILLS,2018-00046744,03/14/2018,No Info,3010,Civil,7:45am
+88 Leta Dr SECURITY,2018-00046735,03/14/2018,Resolved Onscene,5100,Citizen Contact,7:37am
+7930 INDIAN VILLAGE HTS HANOVER,2018-00046732,03/14/2018,No Info,6504,School Resource Office,7:35am
+Address Blocked,2018-00046730,03/14/2018,No Info,5100,Domestic Violence In Progress,7:34am
+2675 FRAZIER LN CIMARRON HILLS,2018-00046729,03/14/2018,No Info,3001,Civil,7:34am
+4700 S CALHAN RD Yoder,2018-00046728,03/14/2018,No Info,4602,Traffic Stop,7:32am
+29000-29999 Judge Orr Rd CALHAN,2018-00046727,03/14/2018,No Info,4603,911 Hangup - Phase II,7:31am
+Hodgen Rd / Roller Coaster Rd MONUMENT,2018-00046722,03/14/2018,Resolved Onscene,1904,Traffic Stop,7:15am
+Address Blocked,2018-00046721,03/14/2018,Resolved Onscene,5301,Domestic Violence In Progress,7:14am
+4931 JUSTEAGEN DR SECURITY,2018-00046720,03/14/2018,No Info,5200,911 Hangup - Phase II,7:11am
+S Calhan Hwy / Vorenberg Rd CALHAN,2018-00046718,03/14/2018,No Info,4603,Traffic Stop,7:09am
+9755 TOWNER AVE FALCON,2018-00046710,03/14/2018,No Info,4606,School Resource Office,6:57am
+Hodgen Rd / Roller Coaster Rd MONUMENT,2018-00046708,03/14/2018,Resolved Onscene,1904,Traffic Stop,6:51am
+14255 WOODROCK PATH COLORADO SPRINGS,2018-00046697,03/14/2018,No Info,1901,Civil,6:30am
+17154 Hwy 83 MONUMENT,2018-00046692,03/14/2018,No Info,1904,Traffic Accident With Injury,6:13am
+Hodgen Rd / Roller Coaster Rd MONUMENT,2018-00046691,03/14/2018,Resolved Onscene,1904,Traffic Stop,6:11am
+Address Blocked,2018-00046689,03/14/2018,No Info,7303,Follow Up,6:05am
+Address Blocked,2018-00046688,03/14/2018,No Info,7303,Follow Up,6:04am
+2704 Howbert St COLORADO SPRINGS,2018-00046686,03/14/2018,No Info,8502,911 Hangup - Phase II,5:59am
+1810 MAIN ST SECURITY,2018-00046681,03/14/2018,No Info,5200,Business Check,5:50am
+Hodgen Rd / Roller Coaster Rd MONUMENT,2018-00046680,03/14/2018,Summons,1904,Traffic Stop,5:50am
+Address Blocked,2018-00046678,03/14/2018,No Info,6501,Follow Up,5:45am
+Address Blocked,2018-00046677,03/14/2018,No Info,6501,Follow Up,5:42am
+I 25 Sb / N Academy Blvd USAF ACADEMY,2018-00046675,03/14/2018,No Info,1901,911 Hangup - Phase II,5:15am
+Peterson Rd / Palmer Park Blvd CIMARRON HILLS,2018-00046673,03/14/2018,No Info,3001,Traffic Stop,5:02am
+Address Blocked,2018-00046667,03/14/2018,No Info,5504,Check the Welfare,4:45am
+Palmer Park Blvd / Peterson Rd CIMARRON HILLS,2018-00046666,03/14/2018,No Info,3001,Traffic Stop,4:43am
+1095 Western Dr CIMARRON HILLS,2018-00046665,03/14/2018,No Info,3010,Privately Towed Vehicle,4:30am
+Fontaine Blvd / S Powers Blvd SECURITY,2018-00046662,03/14/2018,No Info,6502,Traffic Stop,4:07am
+17154 Hwy 83 MONUMENT,2018-00046660,03/14/2018,No Info,1904,Traffic Accident With Injury,3:46am
+1970 Waynoka Rd CIMARRON HILLS,2018-00046659,03/14/2018,No Info,3001,Citizen Contact,3:43am
+1095 Western Dr CIMARRON HILLS,2018-00046650,03/14/2018,No Info,3010,Privately Towed Vehicle,2:43am
+Hartford St / S Academy Blvd STRATMOOR HILLS,2018-00046649,03/14/2018,Resolved Onscene,7303,Suspicious Incident,2:28am
+26 Clover Cir E STRATMOOR HILLS,2018-00046645,03/14/2018,No Info,7300,Repossessed Vehicle,2:05am
+120 Sumac Dr SECURITY,2018-00046640,03/14/2018,No Info,5100,Repossessed Vehicle,1:53am
+5 Widefield Blvd SECURITY,2018-00046639,03/14/2018,No Info,6501,Business Check,1:53am
+6985 Space Village Ave CIMARRON HILLS,2018-00046636,03/14/2018,No Info,3010,911 Hangup - Phase II,1:41am
+875 Hathaway Dr CIMARRON HILLS,2018-00046635,03/14/2018,Case Report,3010,Suspicious Incident,1:36am
+1678 Kensington Dr STRATMOOR HILLS,2018-00046632,03/14/2018,No Info,7303,Suspicious Incident,1:21am
+W Baptist Rd / I 25 MONUMENT,2018-00046631,03/14/2018,No Info,1900,Citizen Traffic Complaint,1:18am
+6966 Burroback Ave SECURITY,2018-00046629,03/14/2018,Resolved Onscene,6501,Suspicious Incident,1:14am
+2477 Peterson Rd CIMARRON HILLS,2018-00046628,03/14/2018,No Info,3001,Business Check,1:10am
+Hwy 94 / Donald Rd ELLICOTT,2018-00046623,03/14/2018,No Info,4602,Suspicious Incident,12:51am
+E Hwy 24 / Hwy 94 CIMARRON HILLS,2018-00046622,03/14/2018,No Info,3010,Traffic Stop,12:49am
+N Powers Blvd / Galley Rd CIMARRON HILLS,2018-00046618,03/14/2018,No Info,3010,Traffic Stop,12:34am
+N Marksheffel Rd / N Carefree Cir FALCON,2018-00046609,03/14/2018,No Info,3001,Traffic Stop,12:14am
+7061 Cleveland Ct SECURITY,2018-00046608,03/14/2018,Resolved Onscene,6501,Noise Complaint,12:11am
+Palmer Park Blvd / Poteae Cir CIMARRON HILLS,2018-00046605,03/14/2018,No Info,3001,Traffic Stop,12:03am
+Lashelle Ave / Hampton South STRATMOOR HILLS,2018-00046604,03/14/2018,No Info,7302,Citizen Contact,12:03am
+419 Niagara St SECURITY,2018-00046603,03/14/2018,No Info,6501,Criminal Mischief Just Occurre,12:01am
+428 Rose Dr SECURITY,2018-00046602,03/13/2018,No Info,5100,Theft Cold,11:58pm
+6715 Panamint Ct CIMARRON HILLS,2018-00046599,03/13/2018,No Info,3010,Suspicious Incident,11:52pm
+Main St / Norman Dr SECURITY,2018-00046598,03/13/2018,No Info,5100,Traffic Stop,11:44pm
+Mm161 I-25 (gps) MONUMENT,2018-00046597,03/13/2018,No Info,1900,Traffic Accident Unknown Injur,11:43pm
+1625 Hampton South STRATMOOR HILLS,2018-00046596,03/13/2018,No Info,7302,Suspicious Incident,11:40pm
+605 Peterson Rd CIMARRON HILLS,2018-00046594,03/13/2018,No Info,3010,Suspicious Incident,11:35pm
+7360 Caballero Ave SECURITY,2018-00046593,03/13/2018,No Info,6501,Citizen Contact,11:34pm
+3600 County Line Rd MONUMENT,2018-00046589,03/13/2018,Summons,1903,Traffic Stop,11:26pm
+E Hwy 24 / Hwy 94 CIMARRON HILLS,2018-00046587,03/13/2018,No Info,3010,Traffic Stop,11:21pm
+Leta Dr / Main St SECURITY,2018-00046585,03/13/2018,No Info,5100,Traffic Stop,11:17pm
+E Platte Ave / Valley St CIMARRON HILLS,2018-00046583,03/13/2018,No Info,3010,Traffic Stop,11:14pm
+Leta Dr / Crest Pl SECURITY,2018-00046582,03/13/2018,No Info,5100,Traffic Stop,11:09pm
+Main St / Crest Pl SECURITY,2018-00046576,03/13/2018,No Info,5100,Traffic Stop,10:59pm
+Main St / Norman Dr SECURITY,2018-00046575,03/13/2018,No Info,5100,Traffic Stop,10:59pm
+Main St / S Hwy 85 SECURITY,2018-00046572,03/13/2018,No Info,5100,Traffic Stop,10:45pm
+Address Blocked,2018-00046568,03/13/2018,No Info,5100,Check the Welfare,10:34pm
+Address Blocked,2018-00046567,03/13/2018,No Info,6501,Follow Up,10:34pm
+I 25/pueblo County Line,2018-00046562,03/13/2018,No Info,6504,Citizen Traffic Complaint,10:27pm
+Address Blocked,2018-00046557,03/13/2018,No Info,8502,Follow Up,10:16pm
+Mm125 I-25 (gps) FOUNTAIN,2018-00046556,03/13/2018,No Info,6503,Citizen Traffic Complaint,10:16pm
+13250 Ray Nixon Rd FOUNTAIN,2018-00046554,03/13/2018,No Info,6503,911 Hangup - Phase II,10:12pm
+Link Rd / C And S Rd FOUNTAIN,2018-00046551,03/13/2018,No Info,6502,Citizen Contact,10:08pm
+Address Blocked,2018-00046539,03/13/2018,No Info,8502,Check the Welfare,9:26pm
+940 Lindstrom Dr SECURITY,2018-00046536,03/13/2018,No Info,5200,Alarm Residential,9:13pm
+7915 Constitution Ave FALCON,2018-00046535,03/13/2018,No Info,3001,Theft Cold,9:08pm
+Address Blocked,2018-00046534,03/13/2018,No Info,No Info,Warrant Service,9:05pm
+Mm156 I-25 Sb South Of North Gate USAF ACADEMY,2018-00046531,03/13/2018,No Info,1901,Citizen Traffic Complaint,9:01pm
+Address Blocked,2018-00046527,03/13/2018,No Info,5200,Domestic Violence In Progress,9:00pm
+Address Blocked,2018-00046526,03/13/2018,No Info,5100,Check the Welfare,8:59pm
+10255 Lambert Rd FALCON,2018-00046524,03/13/2018,No Info,4606,Suspicious Incident,8:53pm
+10301 Angeles Rd FALCON,2018-00046522,03/13/2018,No Info,4606,Alarm Business,8:43pm
+Address Blocked,2018-00046520,03/13/2018,No Info,4607,Suicidal Check The Welfare,8:40pm
+8255 Commanche Rd HWY 115,2018-00046518,03/13/2018,Cancelled,7304,Suspicious Incident,8:37pm
+Address Blocked,2018-00046513,03/13/2018,Case Report,2103,Check the Welfare,8:29pm
+10586 Abrams Dr SECURITY,2018-00046511,03/13/2018,Cancelled,5504,Repossessed Vehicle,8:15pm
+Maxwell St / Welton Dr STRATMOOR HILLS,2018-00046508,03/13/2018,No Info,7303,911 Hangup - Phase II,8:08pm
+605 Peterson Rd CIMARRON HILLS,2018-00046506,03/13/2018,No Info,3010,Suspicious Incident,8:06pm
+4815-4899 Yucatan Dr SECURITY,2018-00046498,03/13/2018,No Info,5301,911 Hangup - Phase II,7:52pm
+Address Blocked,2018-00046497,03/13/2018,Cancelled,2102,Follow Up,7:51pm
+1755 E Las Vegas St STRATMOOR HILLS,2018-00046493,03/13/2018,Case Report,7303,Fight,7:47pm
+8525 EDISON RD EDISON,2018-00046491,03/13/2018,No Info,4609,911 Hangup - Phase II,7:40pm
+17045 Viscount Ct MONUMENT,2018-00046486,03/13/2018,No Info,1904,Animal Complaint,7:30pm
+1137 Cree Dr CIMARRON HILLS,2018-00046482,03/13/2018,No Info,3010,Harassment Cold,7:20pm
+Arroya Ln / Raygor Rd BLACK FOREST,2018-00046480,03/13/2018,No Info,2103,Loose Cattle,7:16pm
+Tibbs Rd / Woodmen Hills Dr FALCON,2018-00046479,03/13/2018,No Info,4606,Suspicious Incident,7:12pm
+2230 Lisa Dr CIMARRON HILLS,2018-00046477,03/13/2018,No Info,3001,Suspicious Incident,7:08pm
+Copper Dr / Emerald Dr COLORADO SPRINGS,2018-00046476,03/13/2018,No Info,3906,911 Hangup - Phase II,7:04pm
+4041 Sandberg Dr SECURITY,2018-00046473,03/13/2018,No Info,5301,911 Hangup - Phase II,7:03pm
+Address Blocked,2018-00046472,03/13/2018,No Info,2103,Check the Welfare,7:01pm
+3905 Allgood Dr SECURITY,2018-00046471,03/13/2018,Cancelled,5301,Harassment Cold,6:57pm
+20255 WIGWAM RD HANOVER,2018-00046469,03/13/2018,No Info,6503,911 Hangup - Phase II,6:53pm
+7623 Dutch Loop SECURITY,2018-00046468,03/13/2018,No Info,6502,Disturbance,6:51pm
+N Lauppe Rd / Dusty Meadows Grv Rush,2018-00046467,03/13/2018,No Info,4603,Hazard,6:51pm
+Address Blocked,2018-00046463,03/13/2018,No Info,7302,Domestic Violence In Progress,6:41pm
+5360 Copper Dr COLORADO SPRINGS,2018-00046462,03/13/2018,No Info,3906,911 Hangup - Phase II,6:40pm
+Address Blocked,2018-00046461,03/13/2018,No Info,6501,Domestic Violence In Progress,6:32pm
+6815 Bobtail Dr SECURITY,2018-00046459,03/13/2018,No Info,6501,Criminal Mischief Cold,6:31pm
+13455 Meadow Glen Ln BLACK FOREST,2018-00046458,03/13/2018,No Info,2102,Disturbance,6:31pm
+PETERSON RD / LONSDALE DR CIMARRON HILLS,2018-00046455,03/13/2018,No Info,3001,Traffic Stop,6:22pm
+Address Blocked,2018-00046454,03/13/2018,No Info,7302,Follow Up,6:20pm
+Address Blocked,2018-00046452,03/13/2018,No Info,8501,Check the Welfare,6:19pm
+Fontaine Blvd / Fountain Mesa Rd SECURITY,2018-00046448,03/13/2018,No Info,5200,Traffic Stop,6:03pm
+232 Davie Dr SECURITY,2018-00046442,03/13/2018,No Info,5100,Theft Cold,5:46pm
+3737 Reindeer Cir FALCON,2018-00046441,03/13/2018,No Info,3001,Animal Complaint,5:45pm
+1810 MAIN ST SECURITY,2018-00046433,03/13/2018,No Info,5200,Business Check,5:34pm
+230 Wallace St SECURITY,2018-00046429,03/13/2018,No Info,5303,Fraud,5:29pm
+1093 Ford St CIMARRON HILLS,2018-00046427,03/13/2018,No Info,3010,Alarm Business,5:27pm
+1114 Forest Rd STRATMOOR HILLS,2018-00046428,03/13/2018,No Info,7303,Citizen Contact,5:25pm
+21160 E Hwy 24 PEYTON,2018-00046425,03/13/2018,No Info,4607,Traffic Stop,5:23pm
+4755 Walker Rd MONUMENT,2018-00046422,03/13/2018,No Info,2101,Alarm Canceled,5:18pm
+1530 Outrider Way MONUMENT,2018-00046421,03/13/2018,No Info,1900,Alarm Residential,5:17pm
+Address Blocked,2018-00046418,03/13/2018,No Info,1901,Check the Welfare,5:07pm
+S Hwy 85 (on Road) / Duckwood Rd FOUNTAIN,2018-00046405,03/13/2018,No Info,5506,Traffic Stop,4:53pm
+11150 E Hwy 24 FALCON,2018-00046403,03/13/2018,Case Report,4602,Fraud,4:51pm
+Goldfield Dr / Bradley Rd SECURITY,2018-00046401,03/13/2018,Resolved Onscene,5200,Traffic Stop,4:50pm
+Meridian Rd / Falcon Hwy FALCON,2018-00046402,03/13/2018,Cancelled,4602,Loose Cattle,4:50pm
+MEADOW RUN CIR / OAK CLIFF WAY BLACK FOREST,2018-00046397,03/13/2018,No Info,2102,911 Hangup - Phase II,4:39pm
+Fossinger Rd / S Yoder Rd Rush,2018-00046396,03/13/2018,Cancelled,4605,Drug Activity,4:36pm
+3375 Glenarm Rd STRATMOOR HILLS,2018-00046395,03/13/2018,No Info,7303,911 Hangup - Phase II,4:34pm
+Cleveland Ct / President Ave SECURITY,2018-00046393,03/13/2018,No Info,6501,Traffic Stop,4:32pm
+8925 Rancho Colorado Blvd HANOVER,2018-00046388,03/13/2018,No Info,6504,Suspicious Incident,4:28pm
+1719 Barkley Rd STRATMOOR HILLS,2018-00046387,03/13/2018,No Info,7303,Burglary Residential Cold,4:28pm
+Mm163 I-25 (gps) MONUMENT,2018-00046386,03/13/2018,No Info,1900,Citizen Traffic Complaint,4:27pm
+Address Blocked,2018-00046382,03/13/2018,No Info,5301,Follow Up,4:22pm
+N RUSH RD / JUDGE ORR RD Rush,2018-00046381,03/13/2018,No Info,4601,911 Hangup - Phase II,4:16pm
+605 Peterson Rd CIMARRON HILLS,2018-00046377,03/13/2018,Resolved Onscene,3010,Citizen Contact,4:11pm
+N Meridian Rd / Ayer Rd FALCON,2018-00046374,03/13/2018,Cancelled,2103,Traffic Accident With Injury,3:57pm
+Handle Rd / E Ellicott Rd S ELLICOTT,2018-00046373,03/13/2018,No Info,4604,Traffic Stop,3:56pm
+Address Blocked,2018-00046372,03/13/2018,No Info,8501,Check the Welfare,3:55pm
+500 - 515 Quebec Pl SECURITY,2018-00046371,03/13/2018,No Info,6501,911 Hangup - Phase II,3:51pm
+2515 Cody Dr SECURITY,2018-00046369,03/13/2018,No Info,5100,Harassment Cold,3:46pm
+6570 LONSDALE DR CIMARRON HILLS,2018-00046367,03/13/2018,No Info,3001,Civil,3:43pm
+Moran Ct / Palmer Park Blvd CIMARRON HILLS,2018-00046360,03/13/2018,No Info,3001,Abandoned Vehicle,3:32pm
+Lake Woodmoor Dr / Knollwood Blvd MONUMENT,2018-00046359,03/13/2018,No Info,1900,Assist Outside Agency,3:30pm
+13000-13799 Davis Rd FALCON,2018-00046354,03/13/2018,No Info,4602,911 Hangup - Phase II,3:26pm
+Lake Woodmoor Dr / Knollwood Blvd MONUMENT,2018-00046355,03/13/2018,No Info,1900,Traffic Accident,3:26pm
+1125 PETERSON RD CIMARRON HILLS,2018-00046351,03/13/2018,No Info,3010,Civil,3:23pm
+29450 Mid Jones Rd Yoder,2018-00046350,03/13/2018,Resolved Onscene,4603,Theft Cold,3:23pm
+605 Peterson Rd CIMARRON HILLS,2018-00046349,03/13/2018,No Info,3010,Suspicious Incident,3:22pm
+143 Cornell St SECURITY,2018-00046347,03/13/2018,Cancelled,6501,Repossessed Vehicle,3:18pm
+Address Blocked,2018-00046345,03/13/2018,No Info,6501,Follow Up,3:16pm
+Address Blocked,2018-00046344,03/13/2018,No Info,8502,Check the Welfare,3:14pm
+1114 Forest Rd STRATMOOR HILLS,2018-00046333,03/13/2018,No Info,7303,Citizen Contact,3:07pm
+Hwy 83 / North Gate Blvd BLACK FOREST,2018-00046331,03/13/2018,No Info,1901,Traffic Stop,3:06pm
+3737 Reindeer Cir FALCON,2018-00046330,03/13/2018,No Info,3001,Citizen Contact,3:04pm
+Pine Valley Cir / Bethpage Rd FALCON,2018-00046327,03/13/2018,No Info,4606,Traffic Accident Unknown Injur,3:00pm
+420 Pfingston Cir Schriever AFB,2018-00046321,03/13/2018,Resolved Onscene,4000,Theft Cold,2:50pm
+605 PETERSON RD CIMARRON HILLS,2018-00046320,03/13/2018,No Info,3010,Drug Activity,2:49pm
+4290 LOOMIS AVE STRATMOOR HILLS,2018-00046319,03/13/2018,No Info,7300,Civil,2:49pm
+Address Blocked,2018-00046318,03/13/2018,No Info,3001,Follow Up,2:48pm
+605 PETERSON RD CIMARRON HILLS,2018-00046315,03/13/2018,No Info,3010,911 Hangup - Phase II,2:45pm
+W Hwy 105 / Woodmoor Dr Woodmoor,2018-00046309,03/13/2018,No Info,1900,Suspicious Incident,2:38pm
+6863 KETCHUM DR SECURITY,2018-00046306,03/13/2018,No Info,6501,Motor Vehicle Theft Recovery,2:37pm
+8339 Bohleen Rd FALCON,2018-00046303,03/13/2018,No Info,4606,VIN VERIFICATION,2:35pm
+1930 Hampton South STRATMOOR HILLS,2018-00046296,03/13/2018,No Info,7302,Burglary Residential Cold,2:21pm
+2862 S CIRCLE DR STRATMOOR HILLS,2018-00046295,03/13/2018,No Info,7800,Theft Cold,2:21pm
+4307 Ericson Dr STRATMOOR HILLS,2018-00046294,03/13/2018,Cancelled,7302,Privately Towed Vehicle,2:21pm
+Mm151 I-25 (gps) USAF ACADEMY,2018-00046286,03/13/2018,Case Report,1901,Menacing,2:10pm
+510 SECURITY BLVD SECURITY,2018-00046285,03/13/2018,No Info,5100,Business Check,2:07pm
+17430 Barnwood Dr PEYTON,2018-00046282,03/13/2018,No Info,4607,Citizen Traffic Complaint,2:03pm
+14255 WOODROCK PATH COLORADO SPRINGS,2018-00046280,03/13/2018,No Info,1901,Civil,1:58pm
+33815 Big Springs Rd Rush,2018-00046279,03/13/2018,No Info,4603,Criminal Trespass In Progress,1:57pm
+6679 Lemhi Dr SECURITY,2018-00046278,03/13/2018,Resolved Onscene,6501,Citizen Contact,1:55pm
+395 S ELLICOTT HWY ELLICOTT,2018-00046270,03/13/2018,No Info,4604,School Resource Office,1:50pm
+2860 S Circle Dr STRATMOOR HILLS,2018-00046269,03/13/2018,Case Report,7800,Theft Cold,1:48pm
+13370 Halleluiah Trl FALCON,2018-00046264,03/13/2018,No Info,2102,Assist Outside Agency,1:43pm
+17675 NEW LONDON RD MONUMENT,2018-00046262,03/13/2018,No Info,1904,Civil,1:41pm
+FONTAINE BLVD / KOKOMO ST SECURITY,2018-00046257,03/13/2018,Summons,5200,Traffic Stop,1:38pm
+5 WIDEFIELD BLVD SECURITY,2018-00046251,03/13/2018,Resolved Onscene,6501,Business Check,1:34pm
+Hodgen Rd / Hwy 83 COLORADO SPRINGS,2018-00046248,03/13/2018,No Info,2101,Traffic Stop,1:31pm
+Address Blocked,2018-00046247,03/13/2018,No Info,5200,Follow Up,1:30pm
+605 Peterson Rd CIMARRON HILLS,2018-00046244,03/13/2018,Resolved Onscene,3010,Motor Vehicle Theft Recovery,1:24pm
+7070 Grand Valley Dr SECURITY,2018-00046243,03/13/2018,No Info,6502,Citizen Contact,1:23pm
+405 WILLIS DR SECURITY,2018-00046242,03/13/2018,Case Report,5303,School Resource Office,1:23pm
+1300 W HIGBY RD MONUMENT,2018-00046240,03/13/2018,No Info,1904,School Resource Office,1:20pm
+Address Blocked,2018-00046236,03/13/2018,No Info,3001,Follow Up,1:11pm
+1600 - 1799 Piros Dr CIMARRON HILLS,2018-00046235,03/13/2018,No Info,3001,911 Hangup - Phase II,1:10pm
+1755 Piros Dr CIMARRON HILLS,2018-00046230,03/13/2018,No Info,3001,911 Hangup - Phase II,1:00pm
+3410 Arena Rd COLORADO SPRINGS,2018-00046229,03/13/2018,Cancelled,1904,Alarm Residential,12:58pm
+615 WIDEFIELD DR SECURITY,2018-00046228,03/13/2018,No Info,5100,School Resource Office,12:55pm
+SECURITY BLVD / CRAWFORD AVE SECURITY,2018-00046227,03/13/2018,No Info,5100,Traffic Stop,12:54pm
+3737 Reindeer Cir FALCON,2018-00046226,03/13/2018,Cancelled,3001,Criminal Trespass Cold,12:52pm
+145 Leta Dr SECURITY,2018-00046219,03/13/2018,No Info,5100,Fraud,12:45pm
+Address Blocked,2018-00046215,03/13/2018,No Info,4606,Follow Up,12:37pm
+S Hwy 85 / S Academy Blvd SECURITY,2018-00046213,03/13/2018,No Info,7303,Traffic Stop,12:34pm
+8230 Oak St CASCADE,2018-00046212,03/13/2018,Cancelled,8501,Privately Towed Vehicle,12:31pm
+Address Blocked,2018-00046202,03/13/2018,No Info,5100,Follow Up,12:16pm
+Address Blocked,2018-00046200,03/13/2018,No Info,3010,Follow Up,12:11pm
+Address Blocked,2018-00046196,03/13/2018,Resolved Onscene,4602,Check the Welfare,12:07pm
+1930 Hampton South STRATMOOR HILLS,2018-00046193,03/13/2018,No Info,7302,Burglary Residential Cold,12:02pm
+21085 Capella Dr MONUMENT,2018-00046190,03/13/2018,No Info,1701,VIN VERIFICATION,11:55am
+6857 SPACE VILLAGE AVE CIMARRON HILLS,2018-00046189,03/13/2018,Cancelled,3010,Business Check,11:54am
+4610 Dooley Way SECURITY,2018-00046188,03/13/2018,Cancelled,5100,Fraud,11:52am
+Address Blocked,2018-00046185,03/13/2018,No Info,3010,Follow Up,11:47am
+26110 E Hwy 24 CALHAN,2018-00046184,03/13/2018,No Info,4608,Citizen Traffic Complaint,11:47am
+S Academy Blvd / S Hwy 85 SECURITY,2018-00046183,03/13/2018,No Info,7303,Traffic Stop,11:47am
+Address Blocked,2018-00046177,03/13/2018,No Info,3010,Follow Up,11:40am
+1150 VILLAGE RIDGE PT MONUMENT,2018-00046174,03/13/2018,No Info,1900,School Resource Office,11:38am
+19800-20499 W Elk Creek Dr MONUMENT,2018-00046169,03/13/2018,No Info,2101,911 Hangup - Phase II,11:19am
+Address Blocked,2018-00046166,03/13/2018,Resolved Onscene,3010,Sexual Assault Cold,11:14am
+N Condor Rd / Sunset Trl FALCON,2018-00046160,03/13/2018,Case Report,4602,Suspicious Incident,11:09am
+77 COUCH CIR SECURITY,2018-00046158,03/13/2018,Case Report,5100,Found Property,11:07am
+Fs Rd 311 A COLORADO SPRINGS,2018-00046155,03/13/2018,Cancelled,8501,Traffic Accident,10:59am
+Address Blocked,2018-00046151,03/13/2018,Cancelled,3001,Follow Up,10:41am
+Address Blocked,2018-00046146,03/13/2018,Resolved Onscene,5200,Follow Up,10:37am
+3370 PINEHURST CIR MONUMENT,2018-00046145,03/13/2018,No Info,2101,Civil,10:37am
+7450 Maine Ln FALCON,2018-00046143,03/13/2018,Resolved Onscene,2106,Citizen Contact,10:29am
+11990 SWINGLINE RD FALCON,2018-00046142,03/13/2018,No Info,4602,School Resource Office,10:28am
+30855 VORENBERG RD Rush,2018-00046133,03/13/2018,No Info,4603,Civil,10:17am
+1823 Painter Dr MONUMENT,2018-00046132,03/13/2018,Resolved Onscene,1900,Alarm Residential,10:17am
+30855 VORENBERG RD Rush,2018-00046127,03/13/2018,No Info,4603,Civil,10:10am
+Address Blocked,2018-00046124,03/13/2018,No Info,3010,Attempt to Locate,10:06am
+9600-9999 Towner Ave FALCON,2018-00046123,03/13/2018,No Info,4606,911 Hangup - Phase II,10:00am
+2025 B ST STRATMOOR HILLS,2018-00046121,03/13/2018,Resolved Onscene,7302,Business Check,9:58am
+22750 JONES RD ELLICOTT,2018-00046117,03/13/2018,No Info,4602,Civil,9:54am
+9541 Yukon Way Colorado Centre,2018-00046113,03/13/2018,Resolved Onscene,5504,Citizen Contact,9:52am
+Hwy 83 / Hodgen Rd COLORADO SPRINGS,2018-00046110,03/13/2018,No Info,2101,Traffic Stop,9:45am
+5210 S Hwy 85 SECURITY,2018-00046106,03/13/2018,No Info,5506,Traffic Stop,9:38am
+9470 Bluegrass Pl SECURITY,2018-00046100,03/13/2018,No Info,6502,Harassment Cold,9:32am
+Address Blocked,2018-00046099,03/13/2018,Case Report,4606,Sexual Assault on a Child,9:31am
+7545 MOHAWK RD FALCON,2018-00046098,03/13/2018,No Info,2103,School Resource Office,9:28am
+2102 Springside Dr FALCON,2018-00046094,03/13/2018,Resolved Onscene,3001,Open Door or Window,9:19am
+MM151 I-25 (GPS) USAF ACADEMY,2018-00046093,03/13/2018,No Info,1901,Menacing,9:19am
+420 S Rush Rd Rush,2018-00046092,03/13/2018,No Info,4605,School Resource Office,9:18am
+164 Grinnell St SECURITY,2018-00046084,03/13/2018,Resolved Onscene,6501,Disturbance,9:09am
+Address Blocked,2018-00046082,03/13/2018,Case Report,6501,Domestic Violence In Progress,9:07am
+6801 Chesterfield St SECURITY,2018-00046079,03/13/2018,No Info,6501,Alarm Residential,9:03am
+1615 Hampton South STRATMOOR HILLS,2018-00046078,03/13/2018,No Info,7302,911 Hangup - Phase II,9:02am
+5640 Southmoor Ln FOUNTAIN,2018-00046077,03/13/2018,No Info,5506,911 Hangup - Phase II,9:02am
+502 SECURITY BLVD SECURITY,2018-00046076,03/13/2018,No Info,5100,Suspicious Incident,9:01am
+615 WIDEFIELD DR SECURITY,2018-00046075,03/13/2018,No Info,5100,School Resource Office,9:01am
+815 Choate Ln Rush,2018-00046071,03/13/2018,Cancelled,4605,Keep the Peace,8:54am
+14525 Aiken Ride Vw HWY 115,2018-00046064,03/13/2018,No Info,7304,Harassment Cold,8:45am
+14725 Bradley Rd ELLICOTT,2018-00046063,03/13/2018,No Info,4604,Citizen Contact,8:45am
+Address Blocked,2018-00046059,03/13/2018,Case Report,6501,Runaway,8:42am
+22750 JONES RD ELLICOTT,2018-00046056,03/13/2018,No Info,4602,Civil,8:35am
+19255 MONUMENT HILL RD MONUMENT,2018-00046054,03/13/2018,No Info,1900,School Resource Office,8:34am
+13631 Shepard Hts COLORADO SPRINGS,2018-00046050,03/13/2018,No Info,1901,Suspicious Incident,8:30am
+605 Peterson Rd CIMARRON HILLS,2018-00046047,03/13/2018,No Info,3010,Motor Vehicle Theft Just Occur,8:25am
+13885 BRADSHAW RD PEYTON,2018-00046041,03/13/2018,No Info,4607,Suspicious Incident,8:19am
+6969 OTOOLE DR ELLICOTT,2018-00046039,03/13/2018,No Info,4602,Civil,8:17am
+11990 SWINGLINE RD FALCON,2018-00046032,03/13/2018,No Info,4602,School Resource Office,8:07am
+3830 E Cresta Loma Cir SECURITY,2018-00046030,03/13/2018,Resolved Onscene,5301,Alarm Residential,8:01am
+12050 FALCON HWY FALCON,2018-00046029,03/13/2018,No Info,4602,School Resource Office,7:59am
+136 FONTAINE BLVD SECURITY,2018-00046028,03/13/2018,No Info,5303,School Resource Office,7:59am
+16030 ALTA PLZ PEYTON,2018-00046026,03/13/2018,No Info,4607,Civil,7:54am
+Address Blocked,2018-00046025,03/13/2018,No Info,3001,Check the Welfare,7:54am
+1300 W HIGBY RD MONUMENT,2018-00046017,03/13/2018,No Info,1904,School Resource Office,7:44am
+Palmer Park Blvd / Peterson Rd CIMARRON HILLS,2018-00046015,03/13/2018,No Info,3001,Traffic Stop,7:42am
+S Academy Blvd / I 25 STRATMOOR HILLS,2018-00046006,03/13/2018,No Info,7303,Traffic Accident Unknown Injur,7:35am
+12614 ANGELINA DR FALCON,2018-00045997,03/13/2018,No Info,4606,Civil,7:25am
+Address Blocked,2018-00045992,03/13/2018,No Info,3001,Follow Up,7:19am
+Piros Dr / Lindal Dr CIMARRON HILLS,2018-00045991,03/13/2018,Resolved Onscene,3001,Traffic Stop,7:19am
+Milne Rd / Squirrel Creek Rd HANOVER,2018-00045990,03/13/2018,Cancelled,6604,Hazard,7:19am
+11000 E Hwy 24 FALCON,2018-00045987,03/13/2018,No Info,4602,Citizen Traffic Complaint,7:17am
+13885 BRADSHAW RD PEYTON,2018-00045983,03/13/2018,No Info,4607,School Resource Office,7:08am
+1125 PETERSON RD CIMARRON HILLS,2018-00045980,03/13/2018,No Info,3010,Civil,7:02am
+Security Blvd / Security Cir SECURITY,2018-00045976,03/13/2018,No Info,5100,Traffic Stop,6:57am
+3925 S Hwy 85 STRATMOOR HILLS,2018-00045975,03/13/2018,No Info,7303,Traffic Stop,6:57am
+7679 Tompkins Rd FALCON,2018-00045973,03/13/2018,No Info,4606,Criminal Mischief Cold,6:56am
+E Woodmen Rd / Foxtail Meadow Ln FALCON,2018-00045948,03/13/2018,No Info,4606,Traffic Stop,5:41am
+Address Blocked,2018-00045947,03/13/2018,Case Report,6501,Suicide Attempt,5:39am
+Address Blocked,2018-00045934,03/13/2018,No Info,3001,Follow Up,4:41am
+W Hwy 24 / Longs Ranch Rd CASCADE,2018-00045930,03/13/2018,No Info,8501,Suspicious Incident,4:24am
+Hodgen Rd / Hwy 83 COLORADO SPRINGS,2018-00045929,03/13/2018,Resolved Onscene,2101,Traffic Stop,4:19am
+E Hwy 24 / Constitution Ave FALCON,2018-00045928,03/13/2018,No Info,3001,Citizen Contact,4:18am
+6990 Metropolitan St SECURITY,2018-00045927,03/13/2018,No Info,6501,Noise Complaint,4:13am
+S Academy Blvd / S Hwy 85 SECURITY,2018-00045926,03/13/2018,No Info,7303,Traffic Stop,4:10am
+5050 PIKES PEAK HWY CASCADE,2018-00045925,03/13/2018,Resolved Onscene,8501,Traffic Stop,4:10am
+Address Blocked,2018-00045924,03/13/2018,No Info,3001,Check the Welfare,4:07am
+1885 Peterson Rd CIMARRON HILLS,2018-00045921,03/13/2018,No Info,3001,Traffic Stop,3:30am
+8345 Blue Gill Dr FALCON,2018-00045920,03/13/2018,No Info,4602,Alarm Business,3:26am
+1810 MAIN ST SECURITY,2018-00045919,03/13/2018,No Info,5200,Business Check,3:16am
+W Hwy 24 / S 31st St COLORADO SPRINGS,2018-00045915,03/13/2018,Resolved Onscene,8502,Suspicious Incident,3:01am
+1885 Peterson Rd CIMARRON HILLS,2018-00045908,03/13/2018,No Info,3001,Traffic Stop,2:30am
+2477 Peterson Rd CIMARRON HILLS,2018-00045905,03/13/2018,No Info,3001,Business Check,2:25am
+17970 W HWY 105 MONUMENT,2018-00045904,03/13/2018,No Info,1701,Business Check,2:23am
+Jasper Dr / Security Blvd SECURITY,2018-00045900,03/13/2018,No Info,5100,Disturbance,2:22am
+Fontaine Blvd / Ely St SECURITY,2018-00045891,03/13/2018,No Info,5303,Traffic Stop,1:22am
+1095 Western Dr CIMARRON HILLS,2018-00045885,03/13/2018,No Info,3010,Privately Towed Vehicle,12:57am
+Hwy 115 / Juniper Valley Rd HWY 115,2018-00045883,03/13/2018,No Info,7304,Traffic Stop,12:52am
+Address Blocked,2018-00045879,03/13/2018,No Info,5100,Domestic Violence In Progress,12:33am
+5530 W Condor Rd FALCON,2018-00045878,03/13/2018,Case Report,4602,Suspicious Incident,12:31am
+N Meridian Rd / E Woodmen Rd FALCON,2018-00045873,03/13/2018,No Info,4606,Traffic Stop,12:16am
+Address Blocked,2018-00045872,03/13/2018,No Info,3010,Suicidal Check The Welfare,12:11am
+E Hwy 24 / Old Meridian Rd FALCON,2018-00045870,03/13/2018,No Info,4606,Traffic Stop,12:09am
+Address Blocked,2018-00045867,03/13/2018,No Info,5100,Domestic Violence In Progress,12:02am
+E Hwy 24 / Meridian Rd FALCON,2018-00045862,03/12/2018,No Info,4606,Traffic Stop,11:45pm
+7200 Mclaughlin Rd FALCON,2018-00045861,03/12/2018,No Info,4606,Traffic Stop,11:43pm
+1475 B St STRATMOOR HILLS,2018-00045855,03/12/2018,No Info,7302,Drunk Person,11:28pm
+11550 Meridian Market Vw FALCON,2018-00045852,03/12/2018,No Info,4606,Citizen Contact,11:23pm
+Bradley Rd / Grinnell Blvd SECURITY,2018-00045851,03/12/2018,No Info,5200,Traffic Stop,11:20pm
+11550 Meridian Market Vw FALCON,2018-00045845,03/12/2018,No Info,4606,Citizen Contact,11:12pm
+Hwy 115 / Nelson Blvd HWY 115,2018-00045844,03/12/2018,No Info,7304,Traffic Stop,11:12pm
+Main St / Marquette Dr SECURITY,2018-00045836,03/12/2018,No Info,5100,Traffic Stop,10:59pm
+Address Blocked,2018-00045831,03/12/2018,No Info,6501,Domestic Violence In Progress,10:46pm
+Address Blocked,2018-00045829,03/12/2018,No Info,4602,Check the Welfare,10:42pm
+Peterson Rd / Panamint Ct CIMARRON HILLS,2018-00045824,03/12/2018,No Info,3010,Traffic Stop,10:39pm
+Exit 161 I 25 Off Ramp Sb / W Hwy 105 MONUMENT,2018-00045820,03/12/2018,No Info,1900,Motor Assist,10:34pm
+Hwy 94 / Corral Valley Rd COLORADO SPRINGS,2018-00045816,03/12/2018,No Info,4602,Citizen Traffic Complaint,10:18pm
+2085 Poteae Cir CIMARRON HILLS,2018-00045810,03/12/2018,No Info,3001,Assist Outside Agency,10:03pm
+E WOODMEN RD / E HWY 24 FALCON,2018-00045807,03/12/2018,Resolved Onscene,4606,Traffic Stop,9:57pm
+Fontaine Blvd / Kokomo St SECURITY,2018-00045805,03/12/2018,No Info,5200,Traffic Stop,9:56pm
+615 Widefield Dr SECURITY,2018-00045803,03/12/2018,No Info,5100,Traffic Accident Unknown Injur,9:51pm
+W Baptist Rd / I 25 MONUMENT,2018-00045802,03/12/2018,No Info,1900,Traffic Stop,9:45pm
+4800-4899 Hobkirks Pt STRATMOOR HILLS,2018-00045798,03/12/2018,No Info,7303,911 Hangup - Phase II,9:41pm
+4041 Sandberg Dr SECURITY,2018-00045797,03/12/2018,No Info,5301,911 Hangup - Phase II,9:39pm
+21925 E Hwy 24 PEYTON,2018-00045795,03/12/2018,No Info,4607,Traffic Stop,9:37pm
+S Academy Blvd / Hartford St STRATMOOR HILLS,2018-00045794,03/12/2018,Summons,7303,Traffic Stop,9:36pm
+N Carefree Cir / N Marksheffel Rd COLORADO SPRINGS,2018-00045792,03/12/2018,No Info,3001,Traffic Stop,9:34pm
+Address Blocked,2018-00045791,03/12/2018,Cancelled,4607,Check the Welfare,9:33pm
+500 - 699 MAIN ST SECURITY,2018-00045790,03/12/2018,No Info,5100,911 Hangup - Phase II,9:27pm
+Address Blocked,2018-00045789,03/12/2018,No Info,1901,Check the Welfare,9:27pm
+11613 Rio Secco Rd FALCON,2018-00045787,03/12/2018,No Info,4606,Citizen Contact,9:26pm
+Address Blocked,2018-00045783,03/12/2018,Cancelled,4602,Runaway,9:21pm
+Gleneagle Dr / Westchester Dr COLORADO SPRINGS,2018-00045782,03/12/2018,No Info,1901,Traffic Stop,9:21pm
+510 SECURITY BLVD SECURITY,2018-00045779,03/12/2018,No Info,5100,Criminal Trespass In Progress,9:04pm
+21925 E Hwy 24 PEYTON,2018-00045778,03/12/2018,No Info,4607,Traffic Stop,9:04pm
+1408 Maxwell St STRATMOOR HILLS,2018-00045773,03/12/2018,No Info,7303,Citizen Contact,8:37pm
+Eastonville Rd / Judge Orr Rd FALCON,2018-00045772,03/12/2018,Resolved Onscene,4606,Traffic Stop,8:36pm
+4969 Gibbon St SECURITY,2018-00045770,03/12/2018,No Info,5200,Citizen Contact,8:30pm
+1095 Western Dr CIMARRON HILLS,2018-00045769,03/12/2018,No Info,3010,Fraud,8:28pm
+93 Sherri Dr SECURITY,2018-00045768,03/12/2018,No Info,5100,Harassment Cold,8:23pm
+21160 E Hwy 24 PEYTON,2018-00045767,03/12/2018,No Info,4607,Traffic Stop,8:18pm
+127 Kokomo St SECURITY,2018-00045766,03/12/2018,No Info,6501,Suspicious Incident,8:16pm
+4830 Manzana Dr SECURITY,2018-00045765,03/12/2018,No Info,5301,Motor Vehicle Theft Cold,8:15pm
+4304 ERICSON DR STRATMOOR HILLS,2018-00045764,03/12/2018,No Info,7302,Assault Just Occurred,8:11pm
+14980 Crooked Spur Ln COLORADO SPRINGS,2018-00045761,03/12/2018,Cancelled,1901,Alarm Residential,8:02pm
+Address Blocked,2018-00045759,03/12/2018,No Info,4606,Check the Welfare,7:58pm
+Hodgen Rd / Black Forest Rd BLACK FOREST,2018-00045755,03/12/2018,Cancelled,2101,Citizen Traffic Complaint,7:38pm
+Address Blocked,2018-00045754,03/12/2018,No Info,7303,Follow Up,7:38pm
+734 Rundle Ct SECURITY,2018-00045751,03/12/2018,No Info,5303,Harassment Just Occurred,7:36pm
+21925 E Hwy 24 PEYTON,2018-00045747,03/12/2018,No Info,4607,Traffic Stop,7:31pm
+401 DEAN DR SECURITY,2018-00045745,03/12/2018,No Info,6501,Harassment Cold,7:24pm
+Address Blocked,2018-00045739,03/12/2018,No Info,5100,Domestic Violence Cold,7:12pm
+21160 E Hwy 24 PEYTON,2018-00045737,03/12/2018,No Info,4607,Traffic Stop,7:11pm
+707 Hathaway Dr CIMARRON HILLS,2018-00045735,03/12/2018,Cancelled,3010,911 Hangup - Phase II,7:06pm
+4318 Hampton Cir STRATMOOR HILLS,2018-00045732,03/12/2018,Resolved Onscene,7302,Drunk Person,6:58pm
+N Curtis Rd / Falcon Hwy FALCON,2018-00045731,03/12/2018,Resolved Onscene,4602,Traffic Stop,6:57pm
+22025 E Hwy 24 PEYTON,2018-00045727,03/12/2018,No Info,4607,Traffic Stop,6:52pm
+14980 Crooked Spur Ln COLORADO SPRINGS,2018-00045725,03/12/2018,No Info,1901,Alarm Residential,6:41pm
+3545 Hemmingway Rd ELLICOTT,2018-00045722,03/12/2018,Resolved Onscene,4604,Citizen Contact,6:39pm
+Address Blocked,2018-00045718,03/12/2018,Cancelled,3010,Follow Up,6:33pm
+Security Blvd / Main St SECURITY,2018-00045715,03/12/2018,No Info,5100,Traffic Stop,6:29pm
+5 Widefield Blvd SECURITY,2018-00045714,03/12/2018,No Info,6501,Theft Custody,6:29pm
+13060 Vollmer Rd BLACK FOREST,2018-00045713,03/12/2018,No Info,2102,Citizen Contact,6:28pm
+1369 Soaring Eagle Dr CIMARRON HILLS,2018-00045711,03/12/2018,No Info,3010,Suspicious Incident,6:17pm
+Leta Dr / Main St SECURITY,2018-00045709,03/12/2018,No Info,5100,Traffic Stop,6:11pm
+50 Long Bow Cir MONUMENT,2018-00045705,03/12/2018,No Info,1903,Harassment Cold,6:05pm
+Dix Cir / Crawford Ave SECURITY,2018-00045702,03/12/2018,No Info,5200,Traffic Stop,5:56pm
+5 WIDEFIELD BLVD SECURITY,2018-00045701,03/12/2018,No Info,6501,Business Check,5:54pm
+18580 Comanche Trl HANOVER,2018-00045700,03/12/2018,Cancelled,6504,Repossessed Vehicle,5:53pm
+4041 Sandberg Dr SECURITY,2018-00045696,03/12/2018,Resolved Onscene,5301,911 Hangup - Phase II,5:49pm
+12250 Crystal Downs Rd FALCON,2018-00045687,03/12/2018,Cancelled,4606,Repossessed Vehicle,5:42pm
+Address Blocked,2018-00045686,03/12/2018,No Info,5504,Found Child,5:38pm
+4041 Sandberg Dr SECURITY,2018-00045685,03/12/2018,No Info,5301,911 Hangup - Phase II,5:33pm
+Address Blocked,2018-00045672,03/12/2018,No Info,4607,Check the Welfare,5:26pm
+20350-20999 Industry Ave HANOVER,2018-00045671,03/12/2018,No Info,6503,911 Hangup - Phase II,5:25pm
+I 25 / County Line Rd MONUMENT,2018-00045670,03/12/2018,No Info,1900,Citizen Traffic Complaint,5:23pm
+Barnstormers Ave / Daredevil Dr SECURITY,2018-00045668,03/12/2018,No Info,5301,Suspicious Incident,5:17pm
+2716 Brookline Ct STRATMOOR HILLS,2018-00045666,03/12/2018,No Info,7303,Noise Complaint,5:14pm
+6015 W Condor Rd FALCON,2018-00045665,03/12/2018,No Info,4602,Found Property,5:13pm
+Rio Rd / Pinto Pony Rd FALCON,2018-00045661,03/12/2018,Resolved Onscene,4602,Traffic Stop,5:10pm
+1205 E Las Vegas St COLORADO SPRINGS,2018-00045658,03/12/2018,No Info,7303,Privately Towed Vehicle,5:02pm
+Address Blocked,2018-00045657,03/12/2018,No Info,5100,Domestic Violence Just Occurre,5:02pm
+1205 E Las Vegas St COLORADO SPRINGS,2018-00045656,03/12/2018,Cancelled,7303,Privately Towed Vehicle,5:01pm
+1205 E Las Vegas St COLORADO SPRINGS,2018-00045654,03/12/2018,Cancelled,7303,Privately Towed Vehicle,5:00pm
+W Higby Rd / Cloverleaf Rd MONUMENT,2018-00045652,03/12/2018,Cancelled,1904,Animal INJ/Abuse Cold,4:59pm
+1205 E Las Vegas St COLORADO SPRINGS,2018-00045651,03/12/2018,No Info,7303,Privately Towed Vehicle,4:59pm
+E Hwy 24 / Scott Rd W PEYTON,2018-00045650,03/12/2018,No Info,4607,Traffic Stop,4:58pm
+Riverwalk Pkwy / Colorado Tech Dr FALCON,2018-00045649,03/12/2018,No Info,3001,Reckless Endangerment,4:58pm
+8447 Sedgewick Dr SECURITY,2018-00045648,03/12/2018,No Info,6502,Repossessed Vehicle,4:58pm
+1205 E Las Vegas St COLORADO SPRINGS,2018-00045647,03/12/2018,Cancelled,7303,Privately Towed Vehicle,4:58pm
+1205 E Las Vegas St COLORADO SPRINGS,2018-00045646,03/12/2018,No Info,7303,Privately Towed Vehicle,4:57pm
+1205 E Las Vegas St COLORADO SPRINGS,2018-00045644,03/12/2018,Cancelled,7303,Privately Towed Vehicle,4:56pm
+10134 N Ellicott Hwy PEYTON,2018-00045643,03/12/2018,No Info,4608,Repossessed Vehicle,4:52pm
+7670 E Hwy 24 CIMARRON HILLS,2018-00045642,03/12/2018,No Info,3010,Assist Outside Agency,4:51pm
+9590 Heritage Park Trl PEYTON,2018-00045641,03/12/2018,No Info,4607,Fraud,4:51pm
+15170 E Hwy 24 PEYTON,2018-00045633,03/12/2018,No Info,4606,Traffic Stop,4:40pm
+7610 Midnight Rd FALCON,2018-00045632,03/12/2018,No Info,4606,Traffic Stop,4:39pm
+Mm158 I-25 South Of Baptist (gps) Gleneagle,2018-00045631,03/12/2018,No Info,1900,Citizen Traffic Complaint,4:39pm
+Address Blocked,2018-00045627,03/12/2018,No Info,4000,Found Child,4:32pm
+136 Fontaine Blvd SECURITY,2018-00045623,03/12/2018,Resolved Onscene,5303,School Resource Office,4:25pm
+Address Blocked,2018-00045622,03/12/2018,No Info,6503,Check the Welfare,4:22pm
+1639 Maxwell St STRATMOOR HILLS,2018-00045621,03/12/2018,Resolved Onscene,7303,Fraud,4:21pm
+Elbert Rd / E Hwy 24 PEYTON,2018-00045619,03/12/2018,No Info,4607,Traffic Stop,4:14pm
+Address Blocked,2018-00045617,03/12/2018,Resolved Onscene,3001,Check the Welfare,4:12pm
+Eastonville Rd / Judge Orr Rd FALCON,2018-00045615,03/12/2018,Resolved Onscene,4606,Traffic Stop,4:07pm
+Address Blocked,2018-00045612,03/12/2018,No Info,5504,Check the Welfare,3:59pm
+8289 Fort Smith Rd FALCON,2018-00045610,03/12/2018,Cancelled,4606,Repossessed Vehicle,3:54pm
+1160 Magic Lamp Way MONUMENT,2018-00045608,03/12/2018,No Info,1904,Theft of Auto Parts Cold,3:51pm
+19636 Kershaw Ct MONUMENT,2018-00045607,03/12/2018,No Info,1903,Fraud,3:50pm
+BISMARK RD / PETERSON RD CIMARRON HILLS,2018-00045603,03/12/2018,Resolved Onscene,3001,Traffic Stop,3:47pm
+Dancing Moon Way / San Mateo Dr SECURITY,2018-00045596,03/12/2018,Resolved Onscene,5200,Citizen Contact,3:36pm
+1265 Marsh Hawk Dr SECURITY,2018-00045592,03/12/2018,No Info,5200,Citizen Contact,3:32pm
+Palmer Park Blvd / Pahokee Dr CIMARRON HILLS,2018-00045590,03/12/2018,No Info,3001,Traffic Stop,3:31pm
+Address Blocked,2018-00045585,03/12/2018,Case Report,5100,Domestic Violence Cold,3:24pm
+1810 MAIN ST SECURITY,2018-00045581,03/12/2018,No Info,5200,Business Check,3:21pm
+5110 BRADLEY RD SECURITY,2018-00045579,03/12/2018,No Info,5200,Traffic Stop,3:19pm
+8710 Pine Cone Rd BLACK FOREST,2018-00045573,03/12/2018,No Info,2102,Alarm Canceled,3:13pm
+2300 Shawnee Dr CIMARRON HILLS,2018-00045572,03/12/2018,Resolved Onscene,3001,Citizen Contact,3:13pm
+16741 E Hwy 24 PEYTON,2018-00045561,03/12/2018,No Info,4607,Disturbance,2:59pm
+120 Pointer Pl SECURITY,2018-00045558,03/12/2018,No Info,5303,Citizen Contact,2:56pm
+Address Blocked,2018-00045557,03/12/2018,No Info,2103,Suicidal Check The Welfare,2:55pm
+Address Blocked,2018-00045554,03/12/2018,Resolved Onscene,7302,Follow Up,2:52pm
+7525 Mustang Rd FALCON,2018-00045552,03/12/2018,No Info,2103,Fraud,2:50pm
+Address Blocked,2018-00045548,03/12/2018,Outside Agency,4609,Child Neglect Cold,2:48pm
+615 WIDEFIELD DR SECURITY,2018-00045543,03/12/2018,No Info,5100,School Resource Office,2:37pm
+Mm157 I-25 (gps) USAF ACADEMY,2018-00045541,03/12/2018,No Info,1901,Assist Outside Agency,2:33pm
+6857 Space Village Ave CIMARRON HILLS,2018-00045539,03/12/2018,Resolved Onscene,3010,Citizen Contact,2:31pm

@@ -1,0 +1,13 @@
+incident>>address,incident>>problem,incident>>time,Severity
+9385 Hardin Rd BLACK FOREST,Alarm Residential,6:44am,0.1
+990 Glenrock Dr HWY 115,Alarm Residential,6:22am,0.1
+4810 Manzana Dr SECURITY,Suspicious Incident,3:51am,0.3
+7130 Metropolitan St SECURITY,Suspicious Incident,3:38am,0.3
+Lake Shore Ct CIMARRON HILLS,Suspicious Incident,3:14am,0.3
+5910 Omaha Blvd CIMARRON HILLS,Suspicious Incident,3:06am,0.3
+Terminal Ave / Conrad St CIMARRON HILLS,Suspicious Incident,2:07am,0.3
+2674 Manassas Way CIMARRON HILLS,Disturbance,1:32am,0.1
+3441 W Colorado Ave COLORADO SPRINGS,Alarm Residential,11:36pm,0.1
+5200 BRADLEY RD SECURITY,Suspicious Incident,11:33pm,0.3
+Mm161 I-25 (gps) MONUMENT,Traffic Accident Unknown Injur,11:19pm,0.6
+5501 Goldfield Dr SECURITY,Suspicious Incident,11:05pm,0.3
