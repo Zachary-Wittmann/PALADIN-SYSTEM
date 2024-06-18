@@ -5,14 +5,15 @@ at the ***University of Texas at El Paso*** and was awarded 3<sup>rd</sup> place
 patrol routes.
 
 
-## Table of Contents.
+## Table of Contents
 
 1. [Team Composition \[Atlas Development\]](#team-composition-atlas-development)
 2. [Dataset Information](#dataset-information)
 3. [Dataset Overview](#dataset-overview)
 4. [Project Contents](#project-contents)
 5. [Sample Datasets](#sample-datasets)
-6. [Closing Thoughts](#closing-thoughts)
+6. [Project Contents](#project-contents)
+7. [Closing Thoughts](#closing-thoughts)
 
 ## Team Composition [Atlas Development]
 **This Project was completed with the hard work of its members!**
