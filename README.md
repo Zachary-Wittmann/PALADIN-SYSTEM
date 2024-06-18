@@ -10,10 +10,9 @@ patrol routes.
 1. [Team Composition \[Atlas Development\]](#team-composition-atlas-development)
 2. [Dataset Information](#dataset-information)
 3. [Dataset Overview](#dataset-overview)
-4. [Project Contents](#project-contents)
-5. [Sample Datasets](#sample-datasets)
-6. [Project Contents](#project-contents)
-7. [Closing Thoughts](#closing-thoughts)
+4. [Sample Datasets](#sample-datasets)
+5. [Project Contents](#project-contents)
+6. [Closing Thoughts](#closing-thoughts)
 
 ## Team Composition [Atlas Development]
 **This Project was completed with the hard work of its members!**
