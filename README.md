@@ -19,7 +19,7 @@ patrol routes.
 
 [William Dunlap](https://github.com/unit098 "William's GitHub") - *Code Assistant/Presentation Assistant*: Assisted with any areas in the code or presentation that required an extra set of hands.
 
-[Dante Lopez](https://github.com/dragons6612 "Dante's GitHub") - *Severity Creator/Presentation Assistant*: Created the Severity.csv and assisted in the creation of the presentation
+[Dante Lopez](https://github.com/dragons6612 "Dante's GitHub") - *Severity Creator/Presentation Assistant*: Created the Severity.csv and assisted in the creation of the presentation.
 
 [Jesus Torres](https://github.com/jatorresdom "Jesus's GitHub") - *Main Code Lead*: Handled the majority of the coding process and utilization of Google API.
 
