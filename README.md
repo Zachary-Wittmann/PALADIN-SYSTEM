@@ -26,7 +26,7 @@ patrol routes.
 [Zachary Wittmann](https://github.com/Zachary-Wittmann "Zachary's GitHub") - *Presentation Creator/Code Assistant*: Created the PowerPoint presentation and assisted in approaches for the coding.
 
 <p align="center">
-<img src="https://github.com/Zachary-Wittmann/Hackathons/blob/main/PALADIN%20SYSTEM/ReadMeAssets/Atlas_Development_Smart_Borderland_3rd_Place-1.png" height="400px"> 
+<img src="https://github.com/Zachary-Wittmann/PALADIN-SYSTEM/blob/main/ReadMeAssets/Atlas_Development_Smart_Borderland_3rd_Place-1.png" height="400px"> 
 </p>
 
 ## Dataset Information
